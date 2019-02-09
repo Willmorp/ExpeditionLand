@@ -1,0 +1,3886 @@
+
+
+.temp {}
+
+.pkgsearch {
+  max-width: 490px;
+  margin: 20px auto;
+  background: none repeat scroll 0% 0% rgba(255, 255, 255, 0.84);
+  border: medium none;
+  padding: 2px 15px 0 15px;
+  overflow: visible;
+}
+
+.pkgsearch .panel-body {
+  padding: 26px 25px 23px;
+}
+
+.pkgsearch label {
+  font-weight: normal;
+  text-transform: capitalize;
+}
+
+.pkgsearchs label {
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+.pkgsearch .btn-primary {
+  margin-bottom: 0;
+}
+
+.search-form {
+  margin-bottom: 0px;
+}
+
+.travel-margin {
+  margin-top: 10px;
+}
+
+#divDatePeriod .customDropdown {
+  margin-top: 4px;
+}
+
+.search-calender {
+  padding: 0 5px
+}
+
+#div_body {
+  
+}
+
+.wv_searchinner .navbar-default li {
+  width: 50%;
+  float: left;
+  box-sizing: border-box;
+}
+
+.wv_searchinner {
+  padding: 40px 0 0 0;
+  margin: 15px 0 0 0;
+  max-width: 490px;
+  margin: 0 auto;
+}
+
+.wv_searchinner .navbar-default {
+  background: none;
+  background-image: none;
+  border: 0px;
+  box-shadow: none;
+}
+
+.wv_searchenu {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.wv_searchinner .navbar-default .navbar-tab > .active > a {
+  color: #fff;
+  text-align: center;
+  cursor: pointer;
+  border-width: 0;
+  background: #114f79;
+  
+  background: -moz-linear-gradient(top, #457aa4 0%, #0a5f94 50%, #114f79 100%);
+  
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #457aa4), color-stop(50%, #0a5f94), color-stop(100%, #114f79));
+  
+  background: -webkit-linear-gradient(top, #457aa4 0%, #0a5f94 50%, #114f79 100%);
+  
+  background: -o-linear-gradient(top, #457aa4 0%, #0a5f94 50%, #114f79 100%);
+  
+  background: -ms-linear-gradient(top, #457aa4 0%, #0a5f94 50%, #114f79 100%);
+  
+  background: linear-gradient(to bottom, #457aa4 0%, #0a5f94 50%, #114f79 100%);
+  
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#457aa4', endColorstr='#114f79', GradientType=0);
+}
+
+.wv_searchinner .navbar-default .navbar-tab > .active > a:hover {
+  color: #fff;
+  background: #226899;
+  
+  background: -moz-linear-gradient(top, #5897c8 0%, #457aa4 50%, #226899 100%);
+  
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #5897c8), color-stop(50%, #457aa4), color-stop(100%, #226899));
+  
+  background: -webkit-linear-gradient(top, #5897c8 0%, #457aa4 50%, #226899 100%);
+  
+  background: -o-linear-gradient(top, #5897c8 0%, #457aa4 50%, #226899 100%);
+  
+  background: -ms-linear-gradient(top, #5897c8 0%, #457aa4 50%, #226899 100%);
+  
+  background: linear-gradient(to bottom, #5897c8 0%, #457aa4 50%, #226899 100%);
+  
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#5897c8', endColorstr='#226899', GradientType=0);
+  
+}
+
+.wv_searchinner .nav-tabs {
+  border-bottom: 0 solid #ddd;
+}
+
+.wv_searchinner .navbar-default .navbar-tab a {
+  font-size: 14px;
+  font-family: "lato-bold", "Proxima Bold", "Myriad Pro", "Thonburi", Arial, sans-serif;
+  margin: 0;
+  padding: 12px 0px;
+  color: #0093cc;
+  border: 0px solid #b7b7b7;
+  text-align: center;
+  background: #cdcdcd;
+  
+  background: -moz-linear-gradient(top, #ffffff 0%, #cdcdcd 100%);
+  
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, #cdcdcd));
+  
+  background: -webkit-linear-gradient(top, #ffffff 0%, #cdcdcd 100%);
+  
+  background: -o-linear-gradient(top, #ffffff 0%, #cdcdcd 100%);
+  
+  background: -ms-linear-gradient(top, #ffffff 0%, #cdcdcd 100%);
+  
+  background: linear-gradient(to bottom, #ffffff 0%, #cdcdcd 100%);
+  
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#cdcdcd', GradientType=0);
+}
+
+.wv_searchinner .navbar-default .navbar-tab a:hover {
+  color: #0a5f94;
+  background: #ebebeb;
+  
+  background: -moz-linear-gradient(top, #ffffff 0%, #ebebeb 100%);
+  
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, #ebebeb));
+  
+  background: -webkit-linear-gradient(top, #ffffff 0%, #ebebeb 100%);
+  
+  background: -o-linear-gradient(top, #ffffff 0%, #ebebeb 100%);
+  
+  background: -ms-linear-gradient(top, #ffffff 0%, #ebebeb 100%);
+  
+  background: linear-gradient(to bottom, #ffffff 0%, #ebebeb 100%);
+  
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ebebeb', GradientType=0);
+}
+
+.tab-content .tab-pane .text-bold {
+  font-size: 12px;
+}
+
+.wv_searchinner .navbar-default .navbar-tab a:active {
+  box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.25) inset;
+}
+
+.wv_searchinner .wv-tabmenu li:first-child a {
+  border-radius: 3px 0 0 3px;
+  border-right: 1px solid #b7b7b7;
+}
+
+.wv_searchinner .wv-tabmenu li:last-child a {
+  border-radius: 0 3px 3px 0;
+  border-left: 0px;
+}
+
+.searchwd .tab-content .pkgsearch .panel-body .btnreset {
+  font-size: 14px;
+  outline: none;
+  box-shadow: none;
+}
+
+.pkgsearch .btnreset {
+  background: none;
+  background-color: transparent;
+  color: #0093cc;
+  border: 0px none;
+  text-shadow: none;
+  margin-top: 20px;
+  font-weight: bold;
+  padding-right: 0;
+  font-family: "Proxima Semibold", "Helvetica Neue", Helvetica, Verdana, Arial, sans-serif;
+}
+
+.pkgsearch .btnreset:hover {
+  text-decoration: underline;
+  color: #0a5f94;
+}
+
+#bookTravelContent {
+  padding-bottom: 20px;
+}
+
+.homecontwarp {
+  background: #F9FBFD;
+  position: relative;
+}
+
+.data-featured-trip-filter .datepicker {
+  display: none;
+  right: 55px;
+  top: 65px;
+}
+
+.data-featured-trip-filter .filter-depart-wrapper {
+  display: none;
+}
+
+.homecontwarp h4 {
+  font-size: 18px;
+  letter-spacing: .5px;
+  text-transform: capitalize;
+  clear: both;
+  margin: 0 0 10px 0;
+  font-family: "Proxima semobold", "Helvetica Neue", Helvetica, Verdana, Arial, sans-serif;
+  white-space: nowrap;
+  color: #3f3f3f;
+  text-align: left;
+}
+
+.homecontwarp h4.ttnone {
+  text-transform: none;
+}
+
+.homecontwarp .dlg-img {
+  width: 100%;
+  height: 200px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin: 0 0 10px 0;
+  padding: 0 0 0 0;
+}
+
+.homecont {
+  margin: 0 auto;
+  padding: 10px 0;
+  padding-bottom: 30px;
+  float: left;
+  width: 100%;
+  position:relative;
+}
+
+.homecont .results-grid-item-wrapper {
+  overflow: visible;
+  margin-top: 0;
+  display: block;
+  float: left;
+  width: 100%;
+}
+
+.homecontwarp h3 {
+  font-weight: 500;
+  color: #005e96;
+  text-align: center;
+  margin: 24px 0px -7px;
+  position: relative;
+}
+
+.homecontwarp h3.mainhd {
+  position: relative;
+  z-index: 1;
+}
+
+.homecontwarp h3.mainhd span {
+  background: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/manibg.png");
+  padding: 0 7px;
+}
+
+.homecontwarp h3.mainhd:before {
+  border-top: 2px solid #dfdfdf;
+  content: "";
+  margin: 0 auto;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  z-index: -1;
+}
+
+.homecontwarp h3.double:before {
+  border-top: none;
+}
+
+.homecontwarp h3.double:after {
+  border-bottom: 4px solid #005e96;
+  content: "";
+  margin: 0 auto;
+  position: absolute;
+  top: 45%;
+  left: 0;
+  right: 0;
+  width: 100%;
+  z-index: -1;
+}
+
+.homedailydeals h3 {
+  margin: 40px 0 10px;
+}
+
+.lowest-fare-modal-response-errors h4 {
+  color: #5f5f5f;
+  font-size: 18px;
+  font-weight: normal;
+  margin: 5px 0;
+  padding: 0;
+  font-family: "Proxima Regular", "Helvetica Neue", Helvetica, Verdana, Arial, sans-serif;
+  text-align: center;
+}
+
+.homecarouselwarp h3 {
+  font-weight: 500;
+  color: #005e96;
+  text-align: center;
+  margin: 20px 0;
+  position: relative;
+}
+
+.homecarouselwarp h3.mainhd {
+  position: relative;
+  z-index: 1;
+}
+
+.homecarouselwarp h3.mainhd span {
+  background: #F2F7FA;
+  padding: 0 7px;
+  border-radius: 13px;
+}
+
+.homecarouselwarp h3.mainhd:before {
+  border-top: 2px solid #dfdfdf;
+  content: "";
+  margin: 0 auto;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  z-index: -1;
+}
+
+.homecarouselwarp h3.double:before {
+  border-top: none;
+}
+
+.homecarouselwarp h3.double:after {
+  border-bottom: 4px solid #005e96;
+  content: "";
+  margin: 0 auto;
+  position: absolute;
+  top: 45%;
+  left: 0;
+  right: 0;
+  width: 100%;
+  z-index: -1;
+}
+
+h3.mainhdd {
+  color: #0a5f94;
+  font-family: "Proxima Semibold", "Helvetica Neue", Helvetica, Verdana, Arial, sans-serif;
+  font-size: 24px;
+  overflow: hidden;
+  padding: 5px 0 5px;
+  text-align: center;
+}
+
+.mainhdd::before,
+.mainhdd::after {
+  background-color: #0a5f94;
+  content: "";
+  display: inline-block;
+  height: 3px;
+  position: relative;
+  vertical-align: middle;
+  width: 50%;
+}
+
+.mainhdd::before {
+  margin-left: -50%;
+  right: 0.8em;
+}
+
+.mainhdd::after {
+  left: 0.8em;
+  margin-right: -50%;
+}
+
+.homedailydeals .mainhdd {
+  padding: 5px 0 20px;
+}
+
+.homecarouselwarp {
+  background: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/travelogbackground_2560_web.jpg");
+  background-size: cover;
+  padding: 20px 0 68px;
+  clear: both;
+}
+
+.homecarouselwarp h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: #005e96;
+  text-align: center;
+  margin: 10px 0 15px;
+  position: relative;
+}
+
+.resultsItem {
+  background: #fff;
+  box-shadow: 1px 1px 3px 3px #E6E6E6;
+  margin: 0 0 40px 0;
+  overflow: visible;
+  padding: 0;
+  width: 290px;
+  text-align: left;
+  border-radius: 4px;
+}
+
+.results-grid-item-wrapper {
+  margin-top: 0px;
+}
+
+.results-grid-item-wrapper > div {
+  padding: 0 15px;
+  width: auto;
+  float: none;
+}
+
+.results-grid-item-wrapper .results-name-and-location-wrapper {
+  background: #005e96;
+  border-top-left-radius: 3px;
+  width: 100%;
+  border-top-right-radius: 3px;
+  height: 110px;
+  display: table;
+  position: relative;
+  text-align: center;
+}
+
+.results-grid-item-wrapper .results-name-and-location-wrapper > div {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.results-grid-item-wrapper .results-trip-name {
+  color: white;
+  display: block;
+  font-family: "Lato-Regular", "Myriad Pro", "Thonburi", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 18px;
+  padding: 0 10px;
+}
+
+.results-grid-item-wrapper .results-trip-location {
+  color: #b9e1f5;
+  display: block;
+  font-family: 'Lato-Regular';
+  font-size: 13px;
+  line-height: 13px;
+  padding-top: 4px;
+}
+
+.results-grid-item-wrapper .results-trip-dates-wrapper {
+  overflow: hidden;
+}
+
+.results-grid-item-wrapper .results-trip-dates {
+  background: #6ecaf7;
+  color: white;
+  float: left;
+  font-family: "Lato-Regular", "Myriad Pro", "Thonburi", Arial, sans-serif;
+  font-size: 14px;
+  height: 34px;
+  left: -20px;
+  margin-top: 14px;
+  -ms-transform: skew(-19deg);
+  position: relative;
+  transform: skew(-19deg);
+  -webkit-transform: skew(-19deg);
+  width: 94%;
+}
+
+.results-grid-item-wrapper .results-trip-dates span {
+  display: block;
+  line-height: 34px;
+  -ms-transform: skew(19deg);
+  padding-left: 34px;
+  transform: skew(19deg);
+  -webkit-transform: skew(19deg);
+}
+
+.results-grid-item-wrapper .results-featured-indicator {
+  display: block;
+  position: absolute;
+  right: 20px;
+  top: 58px;
+}
+
+.results-featured-indicator-galleryView {
+  right: 15px;
+  position: absolute;
+  top: 333px;
+  height: 50px;
+}
+
+.results-grid-item-wrapper .results-featured-indicator .icon,
+.results-featured-indicator-galleryView .icon {
+  color: #6ecaf7;
+  font-size: 50px;
+}
+
+.results-grid-item-wrapper .results-trip-duration {
+  clear: both;
+  color: #474545;
+  float: left;
+  font-family: "Lato-Bold", "Myriad Pro", "Thonburi", Arial, sans-serif;
+  font-size: 16px;
+  margin-top: 14px;
+  padding-left: 15px;
+}
+
+.results-grid-item-wrapper .results-price {
+  clear: both;
+  padding-left: 15px;
+  margin-top: 2px;
+}
+
+.results-grid-item-wrapper .results-lowest-fare {
+  margin-top: 5px;
+  padding-left: 15px;
+  margin-bottom: 15px;
+}
+
+.results-grid-item-wrapper .lowestFare {
+  padding-left: 15px;
+}
+
+.results-grid-item-wrapper .results-price a,
+.results-grid-item-wrapper .results-lowest-fare a {
+  font-family: "Lato-Bold", "Myriad Pro", "Thonburi", Arial, sans-serif;
+  text-decoration: underline;
+}
+
+.results-grid-item-wrapper .results-price b {
+  font-size: 16px;
+  font-family: "lato-bold";
+}
+
+.results-grid-item-wrapper .results-price b sup {
+  font-size: 12px;
+  position: relative;
+  top: -3px;
+}
+
+.results-grid-item-wrapper .results-trip-description {
+  clear: both;
+  color: #000;
+  float: left;
+  font-family: "Lato-Regular", "Myriad Pro", "Thonburi", Arial, sans-serif;
+  height: 90px;
+  padding: 12px 15px;
+  margin-bottom: 10px;
+  overflow: hidden;
+}
+
+.results-grid-item-wrapper .results-details-btn-wrapper {
+  clear: both;
+  display: block;
+  height: 60px;
+  padding: 5px 10px 80px;
+  text-align: center;
+  overflow: hidden;
+}
+
+.results-grid-item-wrapper .results-details-btn-wrapper a {
+  max-width: 100%;
+}
+
+.results-grid-item-wrapper .results-trip-theme-icos {
+  display: inline-block;
+  padding-left: 15px;
+  width: 100%;
+  height: 34px;
+  margin-top: 10px;
+}
+
+.results-trip-theme-icos .list-unstyled li {
+  display: inline-block;
+  font-size: 32px;
+  height: 32px;
+  width: 32px;
+}
+
+.results-grid-item-wrapper .results-apply-points-badge {
+  background: center center url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/apply-up-to-ico.png") no-repeat;
+  background-size: 48px 50px;
+  bottom: 10px;
+  color: white;
+  font-family: "Lato-Light", "Myriad Pro", "Thonburi", Arial, sans-serif;
+  font-size: 11px;
+  height: 50px;
+  left: 9px;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  width: 50px;
+  z-index: 2;
+}
+
+.results-grid-item-wrapper .results-sold-out-wrapper {
+  height: 200px;
+  overflow: hidden;
+  position: relative;
+  top: 0;
+}
+
+.results-grid-item-wrapper .results-sold-out {
+  background: #c0202f;
+  color: white;
+  font-family: "Lato-Regular", "Myriad Pro", "Thonburi", Arial, sans-serif;
+  font-size: 13px;
+  height: 29px;
+  left: -71px;
+  line-height: 29px;
+  line-height: 33px;
+  -ms-transform: rotate(-43deg);
+  position: relative;
+  text-align: center;
+  text-transform: capitalize;
+  top: 14px;
+  transform: rotate(-43deg);
+  -webkit-transform: rotate(-43deg);
+  width: 200px;
+  z-index: 2;
+}
+
+.results-grid-item-wrapper .results-image {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 164px;
+  position: absolute;
+  top: 110px;
+  width: 100%;
+  z-index: 1;
+}
+
+.results-image {
+  min-height: 180px;
+}
+
+.results-grid-item-wrapper .results-trip-price-description {
+  color: #949aa4;
+  font-size: 12px;
+  margin-top: 5px;
+  margin: 0 15px 0px;
+  clear: both;
+  line-height: 14px;
+}
+
+.results-grid-item-wrapper .results-membership-level-indicator {
+  background: rgba(85, 85, 85, 0.7);
+  bottom: 0;
+  color: white;
+  font-family: "Lato-Bold", "Myriad Pro", "Thonburi", Arial, sans-serif;
+  font-size: 13px;
+  height: 27px;
+  left: 0;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  text-transform: capitalize;
+  width: 100%;
+}
+
+.resultsPricing {
+  margin-left: 0px;
+}
+
+.footnote {
+  font-size: 11px;
+  text-align: right;
+  margin: 0 0 25px;
+  font-family: "lato-bold", "Myriad Pro", "Thonburi", Arial, sans-serif;
+}
+
+.chute-carousel-container .chute-carousel .chute-carousel-view,
+.homecarouselwarp .chute-carousel-container .chute-carousel-nav a.chute-nav {
+  z-index: 0;
+}
+
+.condition {
+  font-size: 11px;
+  font-weight: bold;
+  text-align: right;
+}
+
+.lowestFare {
+  font-size: 14px;
+}
+
+.lowestFare span:nth-of-type(2) {
+  display: block;
+  font-size: 12px;
+}
+
+.lowestFare b {
+  display: inline-block;
+  font-family: "lato-bold";
+}
+
+.disabledLink {
+  color: #ccd9ef;
+  cursor: not-allowed;
+}
+
+.resultsTitle a {
+  color: #fff;
+}
+
+.galleryImage {
+  height: 168px;
+  overflow: hidden;
+  background-position: center;
+  background-size: cover;
+  cursor: pointer;
+}
+
+.galleryImage a {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.hideFlow {
+  overflow: hidden;
+  width: 100%;
+  float: left;
+}
+
+#ddlSortExpression {
+  min-width: 125px;
+  max-width: 208px;
+}
+
+.lbttoppadding {
+  padding-top: 15px;
+}
+
+.panel-body .lbttoppadding {
+  padding-top: 10px;
+  padding-left: 20px;
+}
+
+.panel-body .lbltravel {
+  padding-top: 10px;
+  padding-left: 0px;
+}
+
+#bookot>.panel>.panel-body>.nav li a {
+  color: #606060;
+  border-width: 0 0 4px 0;
+  padding: 0 0 5px;
+  margin: 0;
+  font-size: 12px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+#bookot>.panel>.panel-body>.nav li.active a,
+#bookot>.panel>.panel-body>.nav li a:hover,
+#bookot>.panel>.panel-body>.nav li a:focus {
+  border-color: #4b81be;
+}
+
+#bookot>.panel>.panel-body>.nav li a i {
+  font-size: 26px;
+  display: block;
+  text-align: center;
+  color: #606060;
+}
+
+#bookot>.panel>.panel-body>.nav li.active a i,
+#bookot>.panel>.panel-body>.nav li a:hover i,
+#bookot>.panel>.panel-body>.nav li a:focus i {
+  color: #4b81be;
+}
+
+#bookot>.panel>.panel-body>.nav>li>a:hover,
+.bookOT>.panel>.panel-body>.nav>li>a:focus {
+  background-color: transparent;
+}
+
+#bookot>.panel>.panel-body>.nav-tabs>li.active>a,
+#bookot>.panel>.panel-body>.nav-tabs>li.active>a:hover,
+#bookot>.panel>.panel-body>.nav-tabs>li.active>a:focus {
+  background-color: transparent;
+}
+
+.pkgsearch .nav-tabs {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+  border-bottom: 1px solid #8f8f8f;
+}
+
+.pkgsearch .nav-tabs > li {
+  display: table-cell;
+  float: none;
+  text-align: center;
+}
+
+::-webkit-input-placeholder,
+::-moz-placeholder,
+:-ms-input-placeholder,
+input:-moz-placeholder {
+  font-style: italic;
+}
+
+#bookot .bookOT .row {
+  margin-left: -5px;
+  margin-right: -5px;
+}
+
+#bookot .bookOT .row [class*="col"] {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#bookot .bookOT .customDropdown select {
+  padding: 0 30px 0 5px
+}
+
+#bookot .hideaways label:first-child {
+  margin-right: 20px;
+}
+
+.customDropdown select#drpChild {
+  padding-right: 25px;
+}
+
+.bookOT ul:before,
+.bookOT:before,
+.bookOT ul:after {
+  content: none;
+}
+
+.bookOT .dt-search-widget-pill .btn:hover {
+  color: #0a5f94;
+}
+
+.bookOT .dt-search-widget-pill .btn {
+  border-top-width: 0;
+  border-bottom-width: 0;
+  padding: 0;
+  outline: none;
+  line-height: 25px;
+  font-size: 12px;
+  font-family: Lato-Bold, 'Myriad Pro', Thonburi, Arial, sans-serif;
+  font-weight: normal;
+}
+
+.bookOT .dt-search-widget-pill .btn-warning {
+  border-color: #adadad;
+  color: #fff;
+  background: #114f79;
+  background: -moz-linear-gradient(top, #457aa4 0%, #0a5f94 50%, #114f79 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #457aa4), color-stop(50%, #0a5f94), color-stop(100%, #114f79));
+  background: -webkit-linear-gradient(top, #457aa4 0%, #0a5f94 50%, #114f79 100%);
+  background: -o-linear-gradient(top, #457aa4 0%, #0a5f94 50%, #114f79 100%);
+  background: -ms-linear-gradient(top, #457aa4 0%, #0a5f94 50%, #114f79 100%);
+  background: linear-gradient(to bottom, #457aa4 0%, #0a5f94 50%, #114f79 100%);
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#457aa4', endColorstr='#114f79', GradientType=0);
+}
+
+.bookOT .dt-search-widget-pill .btn-warning:hover {
+  background: #226899;
+  background: -moz-linear-gradient(top, #5897c8 0%, #457aa4 50%, #226899 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #5897c8), color-stop(50%, #457aa4), color-stop(100%, #226899));
+  background: -webkit-linear-gradient(top, #5897c8 0%, #457aa4 50%, #226899 100%);
+  background: -o-linear-gradient(top, #5897c8 0%, #457aa4 50%, #226899 100%);
+  background: -ms-linear-gradient(top, #5897c8 0%, #457aa4 50%, #226899 100%);
+  background: linear-gradient(to bottom, #5897c8 0%, #457aa4 50%, #226899 100%);
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#5897c8', endColorstr='#226899', GradientType=0);
+  color: #fff;
+}
+
+.bookOT .dt-search-widget-pill .btn-warning:active,
+.bookOT .dt-search-widget-pill .btn.btn-default:active {
+  box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.25) inset;
+}
+
+.bookOT .dt-search-widget-pill .btn.btn-default {
+  background: #cdcdcd;
+  background: -moz-linear-gradient(top, #ffffff 0%, #cdcdcd 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, #cdcdcd));
+  background: -webkit-linear-gradient(top, #ffffff 0%, #cdcdcd 100%);
+  background: -o-linear-gradient(top, #ffffff 0%, #cdcdcd 100%);
+  background: -ms-linear-gradient(top, #ffffff 0%, #cdcdcd 100%);
+  background: linear-gradient(to bottom, #ffffff 0%, #cdcdcd 100%);
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#cdcdcd', GradientType=0);
+}
+
+.bookOT .dt-search-widget-pill .btn.btn-default:hover {
+  background: #ebebeb;
+  background: -moz-linear-gradient(top, #ffffff 0%, #ebebeb 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, #ebebeb));
+  background: -webkit-linear-gradient(top, #ffffff 0%, #ebebeb 100%);
+  background: -o-linear-gradient(top, #ffffff 0%, #ebebeb 100%);
+  background: -ms-linear-gradient(top, #ffffff 0%, #ebebeb 100%);
+  background: linear-gradient(to bottom, #ffffff 0%, #ebebeb 100%);
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ebebeb', GradientType=0);
+}
+
+.flightattributes .checkBoxNew {
+  margin-right: 5px;
+}
+
+.flightattributes label {
+  font-size: 13px;
+}
+
+.discount {
+  display: inline-block;
+  color: #000;
+  cursor: pointer;
+}
+
+.discount i.fa {
+  padding: 3px 4px;
+  border: 2px solid #ddd;
+  color: #4b81be;
+  background-color: #fff;
+}
+
+.discount:active:hover i.fa {
+  background-color: #ebebeb;
+  box-shadow: none;
+}
+
+.discount:hover i.fa {
+  -webkit-box-shadow: 0px 0px 4px 1px rgba(10, 95, 148, 0.53);
+  -moz-box-shadow: 0px 0px 4px 1px rgba(10, 95, 148, 0.53);
+  box-shadow: 0px 0px 4px 1px rgba(10, 95, 148, 0.53);
+}
+
+.errorcontainer {
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+}
+
+.appenderror {
+  padding-left: 15px;
+  margin-bottom: 5px;
+}
+
+.appenderror label {
+  display: block;
+}
+
+.traveleres {
+  margin-top: 15px;
+}
+
+.tabLabel {
+  padding: 10px 0 10px;
+  font-family: 'proxima Regular';
+}
+
+.tab-pane .input-group {
+  width: 100%;
+}
+
+.btn.btn-primary {
+  font-family: "Proxima Semibold", "Helvetica Neue", Helvetica, Verdana, Arial, sans-serif;
+  padding: 13px 35px;
+  margin-top: 10px;
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.46);
+  border: 1px solid #63738b;
+  border-radius: 3px;
+}
+
+.resetForm {
+  position: relative;
+  top: 25px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.dt-search-widget-pill {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+  border: 1px solid #b7b7b7;
+  border-radius: 4px;
+  overflow: hidden;
+  padding-left: 0
+}
+
+.dt-search-widget-pill li {
+  display: table-cell;
+  list-style: none;
+}
+
+.dt-search-widget-pill li button {
+  width: 100%;
+  border-radius: 0;
+  font-weight: bold;
+  color: #0093cc;
+}
+
+.homecontwarp p.hpbotcont {
+  min-height: 80px;
+}
+
+.searchwd {
+  background-color: #005e96;
+  background-repeat: no-repeat, repeat;
+  
+  overflow: visible;
+  background-size: 1920px auto;
+  background-position: center top;
+}
+
+.searchwd .tab-content .panel-body * {
+  font-size: 12px;
+}
+
+.searchwd .tab-content .panel-body .otahead {
+  font-size: 18px;
+  font-family: "Lato-Bold", "Myriad Pro", "Thonburi", Arial, sans-serif;
+  color: #0a5f94;
+}
+
+.RentalAgencyContainer .form-group .lgfx-rentalagency {
+  max-width: 130px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.RentalAgencyContainer .form-group .lgfx-corp {
+  max-width: 160px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.RentalAgencyContainer .form-group .lgfx-discount {
+  max-width: 100px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.otaitalic {
+  font-style: italic;
+  font-family: "lato-bold", "Myriad Pro", "Thonburi", Arial, sans-serif;
+}
+
+.specifdates {
+  margin-top: 5px;
+}
+
+.radio-button > div:first-child {
+  float: left;
+}
+
+.radio-button > div span {
+  display: inline-block;
+}
+
+.radio-button > div:last-child {
+  margin-left: 20px;
+}
+
+.searchwd .tab-content .panel-body .radioBoxNew {
+  font-size: 14px;
+}
+
+.searchwd .tab-content .panel-body .btn-primary {
+  font-size: 18px;
+}
+
+.searchwd .tab-content .panel-body .closeflights .fa {
+  font-size: 20px;
+  margin-top: 7px;
+}
+
+.homecarouselwarp .chute-carousel-container .chute-carousel-nav a.chute-nav.prev {
+  padding: 6px 2px 0px 0px;
+  left: 25px;
+}
+
+.homecarouselwarp .chute-carousel-container .chute-carousel-nav a.chute-nav {
+  border-radius: 50%;
+  border: 2px solid rgba(255, 255, 255, 0.8);
+  width: 60px;
+  height: 60px;
+  background: none repeat scroll 0% 0% rgba(26, 26, 26, 0.8);
+}
+
+.homecarouselwarp .chute-carousel-container .chute-carousel-nav a.chute-nav.next {
+  padding: 6px 0px 0px 6px;
+  right: 10px;
+}
+
+.homecarouselwarp div.chute-carousel div.chute-carousel-view div.chute-asset-view {
+  border: none;
+  margin: 10px 20px;
+}
+
+.homedetails,
+.DailyDeals,
+.Marketdeals {
+  margin-bottom: 25px;
+}
+
+
+
+
+.ui-menu .ui-menu-item {
+  background: #FFF;
+  border-bottom: 1px solid #F9F9F9;
+}
+
+.ui-menu .ui-menu-item a {
+  line-height: 25px;
+}
+
+.ui-menu .ui-menu-item a:hover {
+  border: 1px solid #fff;
+}
+
+
+
+
+.reactivation-container {
+  width: 860px;
+  padding-top: 35px;
+}
+
+.reactivation .button,
+.button:focus {
+  cursor: pointer;
+  text-decoration: none;
+  color: #fff;
+  font-family: "Proxima Semibold", "Helvetica Neue", Helvetica, Verdana, Arial, sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  white-space: nowrap;
+  text-align: center;
+  padding: 10px 35px;
+  margin-top: 10px;
+  display: inline-block;
+  outline: 0;
+  background: #3d7dab;
+  background: linear-gradient(to bottom, #3d7dab 0%, #0f4e7d 100%);
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.46);
+  background-size: 1px 75px;
+  border: 1px solid #62738c;
+  border-radius: 4px;
+}
+
+.reactivation .button.continue,
+.button:focus.continue {
+  background: linear-gradient(to bottom, #86c8d6 0%, #209eae 100%);
+  border: 1px solid #0094a0;
+  text-shadow: 0 1px 1px rgba(105, 154, 3, 0.75);
+  margin-top: 20px;
+  width: 100%;
+}
+
+.ada-compliant,
+table caption {
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  z-index: 10000;
+}
+
+.reactivation {
+  background: rgba(255, 255, 255, 0.9);
+  padding: 30px 45px 15px;
+  border-radius: 5px;
+  margin-left: 10px;
+  margin-bottom: 35px;
+}
+
+.reactivation .dt-reactivation-hero {
+  border-right: 1px solid #4b5273;
+  color: #4b5273;
+}
+
+.reactivation .pass-cont {
+  margin-top: 10px;
+}
+
+.reactivation .dt-reactivation-hero .reactivation-heading-thin {
+  font-family: 'Nexa';
+  font-weight: 100;
+  font-size: 45px;
+  line-height: 28px;
+  margin-top: 10px;
+}
+
+.reactivation .dt-reactivation-hero span {
+  display: block;
+  text-align: right;
+}
+
+.reactivation .dt-reactivation-hero .reactivation-heading-semibold {
+  font-family: "Nexa", Helvetica, Arial, sans-serif;
+  font-size: 44px;
+}
+
+.reactivation .dt-reactivation-hero .reactivation-heading-byline {
+  font-size: 16px;
+}
+
+.reactivation .dt-reactivation-hero .reactivation-heading-semibold {
+  font-family: "Nexa", Helvetica, Arial, sans-serif;
+  font-size: 44px;
+}
+
+.reactivation .reactivation-footnotes b {
+  display: block;
+  font-family: "Lato-Bold", "Myriad Pro", "Thonburi", Arial, sans-serif;
+  margin: 20px 0 5px;
+}
+
+.reactivation .reactivation_errors {
+  background: #e9e9e9;
+  border: 1px solid #ccc;
+  padding: 15px;
+  border-radius: 4px;
+  margin-bottom: 25px;
+  margin-top: -5px;
+  color: #5f5f5f;
+}
+
+.pkgsearch label.error.sch {
+  text-transform: none;
+}
+
+.react-continue-button {
+  padding: 10px 35px;
+  margin-top: 20px;
+  width: 100%;
+  font-size: 15px;
+}
+
+
+
+
+.data-wv-search-widget {
+  background-color: #f9fbfd;
+  min-height: 140px;
+  padding: 20px 0 20px;
+  display: block;
+  position: relative;
+  z-index: 5;
+}
+
+.wv-search-widget-modal-title-bar {
+  display: none;
+}
+
+.wv-search-widget-form-header-wrapper {
+  position: relative;
+  padding-bottom: 15px;
+}
+
+.data-wv-search-widget .wv-search-widget-dreamtrips-itins .calendar-input.wv-form-block:not(.wv-search-widget-flights-multi-city-controls) {
+  width: 22%;
+}
+
+.wv-search-widget-nav {
+  text-align: center;
+}
+
+.wv-search-widget-nav li {
+  padding-left: 12px;
+  display: inline-block;
+  float: none;
+  vertical-align:top;
+  padding-top:8px;
+}
+
+.wv-search-widget-nav li:first-child a,.wv-search-widget-nav li:nth-child(2) a {
+       line-height: 14px;
+}
+
+
+
+.wv-search-widget-nav li a {
+  background-position: 5px center;
+  padding: 10px 5px 10px 38px;
+  position: relative;
+  background-size: 24px;
+  background-repeat: no-repeat;
+  color: #4a5058;
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+.wv-search-widget-nav>li>a:hover,
+.wv-search-widget-nav>li>a:hover {
+  color: #b0008e;
+  border-color: transparent;
+  background-color: transparent;
+}
+
+.wv-search-widget-nav >li >a.wv-search-widget-nav-opt-dreamtrips {
+  background-image: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/dreamtrips.svg");
+}
+.wv-search-widget-nav >li >a.wv-search-widget-nav-opt-anytime-escapes {
+  background-image: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/DreamTrips_AnytimeEscapes_Icon_Solo.svg");
+  background-size: 40px;
+  
+}
+
+.wv-search-widget-nav >li >a.wv-search-widget-nav-opt-anytime-escapes > .wv-search-widget-nav-title{
+margin-left: 15px;
+}
+
+.wv-search-widget-nav >li >a.wv-search-widget-nav-opt-flights {
+  background-image: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/flights.svg");
+}
+
+.wv-search-widget-nav >li >a.wv-search-widget-nav-opt-hotels {
+  background-image: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/hotels.svg");
+}
+
+.wv-search-widget-nav >li >a.wv-search-widget-nav-opt-cruises {
+  background-image: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/cruises.svg");
+  background-size: 37px;
+  padding-left: 49px;
+}
+
+.wv-search-widget-nav >li >a.wv-search-widget-nav-opt-rentals {
+  background-image: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/rentals.svg");
+}
+
+.wv-search-widget-nav >li >a.wv-search-widget-nav-opt-activities {
+  background-image: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/activities2.svg");
+}
+
+.wv-search-widget-nav > li.active>a.wv-search-widget-nav-opt-dreamtrips,
+.wv-search-widget-nav> li>a.wv-search-widget-nav-opt-dreamtrips:hover {
+  background-image: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/dreamtrips-active.svg");
+}
+.wv-search-widget-nav> li>a.wv-search-widget-nav-opt-anytime-escapes:hover{
+     background-image: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/DreamTrips_AnytimeEscapes_Icon_Solo-active.svg");
+}
+.wv-search-widget-nav> li>a.wv-search-widget-nav-opt-anytime-escapes:visited{
+     background-image: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/DreamTrips_AnytimeEscapes_Icon_Solo.svg");
+     background-color:#f9fbfd;
+}
+.wv-search-widget-nav > li.active>a.wv-search-widget-nav-opt-flights,
+.wv-search-widget-nav> li>a.wv-search-widget-nav-opt-flights:hover {
+  background-image: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/flights-active.svg");
+}
+
+.wv-search-widget-nav > li.active>a.wv-search-widget-nav-opt-hotels,
+.wv-search-widget-nav> li>a.wv-search-widget-nav-opt-hotels:hover {
+  background-image: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/hotels-active.svg");
+}
+
+.wv-search-widget-nav > li.active>a.wv-search-widget-nav-opt-cruises,
+.wv-search-widget-nav> li>a.wv-search-widget-nav-opt-cruises:hover {
+  background-image: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/cruises-active.svg");
+}
+
+.wv-search-widget-nav > li.active>a.wv-search-widget-nav-opt-rentals,
+.wv-search-widget-nav> li>a.wv-search-widget-nav-opt-rentals:hover {
+  background-image: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/rentals-active.svg");
+}
+
+.wv-search-widget-nav > li.active>a.wv-search-widget-nav-opt-activities,
+.wv-search-widget-nav> li>a.wv-search-widget-nav-opt-activities:hover {
+  background-image: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/activities2-active.svg");
+}
+  .data-wv-search-widget nav li  .wv-search-widget-nav-title-sub{
+      font-size: 10px;
+      display:block;
+}
+.wv-search-widget-nav > li > a {
+  color: #4a5058;
+  font-size: 15px;
+  text-transform: uppercase;
+}
+
+.wv-search-widget-nav > li.active > a,
+.wv-search-widget-nav > li.active > a:hover,
+.wv-search-widget-nav > li.active > a:focus {
+  border: 1px solid #b0008e;
+  border-radius: 6px;
+  color: #b0008e;
+}
+
+.wv-search-widget-nav > li.active > a .arrowmark {
+  position: absolute;
+  bottom: -16px;
+  left: -8px;
+  height: 25px;
+  width: 50px;
+  background: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/arrowdown_magenta.svg") no-repeat center center/15px;
+  background-size: 15px 25px;
+}
+
+.wv-search-widget-nav.nav-tabs {
+  border-bottom: none;
+}
+@media (min-width:991px){
+.wv-search-widget-nav >li >a.wv-search-widget-nav-opt-dreamtrips{
+    background-position: 5px 8px;
+}
+    .wv-search-widget-nav > li > a.wv-search-widget-nav-opt-anytime-escapes {
+        background-position: 5px top;
+    }
+}
+@media (max-width: 767px) {
+  .wv-search-widget-modal-title-bar {
+    background: linear-gradient(323deg, #b0008e 7%, #5c068c 52.53%, #484da0 74.78%, #0076ce 100%);
+    text-align: left;
+    width: 100%;
+    display: block;
+  }
+  .wv-search-widget-modal-title {
+    color: #fff;
+    line-height: 37px;
+    height: 35px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    padding-right: 50px;
+    padding-left: 15px;
+    text-transform: none!important;
+  }
+  .wv-search-widget-close-btn {
+    position: absolute;
+    top: 4px;
+    right: 4px;
+    border: 0;
+    background-image: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/close-mobile.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 26px;
+    height: 26px;
+    background-color: #b0008e;
+    opacity: .9;
+  }
+  .data-wv-search-widget .ota_autosuggestion {
+    left: 0;
+    top: 40px;
+    width: 100%;
+  }
+}
+
+.wv-search-widget-dreamtrips {
+  display: table;
+}
+
+.wv-search-widget-dreamtrips > .input-search {
+  display: table-cell;
+}
+
+::-webkit-input-placeholder {
+  font-style: normal;
+}
+
+:-moz-placeholder {
+  font-style: normal;
+}
+
+::-moz-placeholder {
+  font-style: normal;
+}
+
+:-ms-input-placeholder {
+  font-style: normal;
+}
+
+.data-wv-search-widget div.calendar-input.wv-form-block::before {
+  background-repeat: no-repeat;
+  content: '';
+  height: 18px;
+  position: absolute;
+  top: 7px;
+  
+}
+
+.wv-search-pax-count {
+  cursor: default;
+  width: 96%;
+  height: 100%;
+  background: transparent;
+  border: 0;
+  outline: 0;
+  text-align: left;
+}
+
+.wv-search-widget-flights-travelers .dropdown-menu {
+  max-height: initial;
+  width: 100%;
+  padding: 10px 0 15px;
+  margin-left: 0;
+  margin-top: 1px;
+  border-radius: 5px;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, .2), 10px 10px 10px rgba(0, 0, 0, .2);
+}
+
+.data-wv-search-widget div.calendar-input.wv-form-block.departure .wv-form-block-inner input {
+  background-image: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/calendar2.svg");
+  background-repeat: no-repeat;
+   padding-left:25px;
+   margin-left:0;
+    
+    background-position:left 0;
+  background-size:20px 18px;
+  height: 18px;
+    
+}
+.data-wv-search-widget div.calendar-input.wv-form-block.departure .wv-form-block-inner{
+    padding:0;
+}
+
+.data-wv-search-widget div.calendar-input.wv-form-block.wv-search-widget-dreamtrips-returning.range-selection:before,
+.data-wv-search-widget div.calendar-input.wv-form-block.arrival::before {
+  background-image: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/arrowright.svg");
+  width: 12px;
+  background-position-y: center;
+}
+
+.data-wv-search-widget div.calendar-input.wv-form-block {
+  padding-left: 6px;
+  position: relative;
+  border: 1px solid #d4e0eb;
+  background-color: #fff;
+}
+
+data-wv-search-widget .wv-search-widget-dreamtrips-itins .calendar-input.wv-form-block:not(.wv-search-widget-flights-multi-city-controls).full-width {
+  width: 44%;
+}
+
+@media screen and (min-width: 768px) {
+  .data-wv-search-widget .wv-with-button {
+    margin-right: 375px;
+  }
+  .data-wv-search-widget .wv-search-widget-repeat-wrapper {
+    display: table;
+    position: relative;
+    width: 100%;
+  }
+  .data-wv-search-widget .wv-search-widget-repeat-wrapper .wv-form-block {
+    display: table-cell;
+  }
+  .data-wv-search-widget .wv-search-widget-repeat-wrapper .wv-form-block:not(.wv-search-widget-flights-multi-city-controls) {
+    vertical-align: middle;
+    border: 1px solid #d4e0eb;
+    border-right-width: 0;
+    background-color: #fff;
+    height: 36px;
+  }
+  .data-wv-search-widget .wv-search-widget-flights .wv-search-widget-flights-returning.wv-form-block,
+  .data-wv-search-widget .wv-search-widget-dreamtrips .wv-search-widget-dreamtrips-returning.wv-form-block {
+    border-left-width: 0;
+  }
+  .data-wv-search-widget .wv-search-widget-repeat-wrapper .wv-form-block:first-child,
+  [data-wv-search-widget="featured"] .wv-search-widget-repeat-wrapper>*:first-child:not(.wv-form-block)+.wv-form-block {
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+  }
+  .data-wv-search-widget .wv-search-widget-repeat-wrapper .wv-form-block:not(.wv-search-widget-flights-multi-city-controls) .wv-form-block-inner {
+    padding: 0 4px;
+  }
+  .data-wv-search-widget .wv-search-widget-repeat-wrapper input[type='text'] {
+    width: 99%;
+    line-height:14px;
+  }
+  .data-wv-search-widget .wv-search-widget-repeat-wrapper .wv-form-block:not(.wv-search-widget-flights-multi-city-controls) input[type='text'],
+  .data-wv-search-widget .wv-search-widget-flights-travelers.wv-form-block input[type='text'],
+  .data-wv-search-widget .wv-search-widget-flights-options .wv-search-widget-flights-trip-type input[type='text'],
+  .data-wv-search-widget .wv-search-widget-flights-options .wv-search-widget-flights-preferred-airline input[type='text'],
+  .data-wv-search-widget.wv-search-widget-flights-options .wv-search-widget-flights-preferred-class input[type='text'],
+  .data-wv-search-widget .wv-search-widget-flights-travelers.wv-form-block input[type='text'],
+  .data-wv-search-widget .wv-search-widget-dreamtrips-travelers.wv-form-block input[type='text'],
+  .data-wv-search-widget .wv-search-widget-flights-options.wv-form-block-group .wv-search-widget-flights-trip-type input[type='text'],
+  .data-wv-search-widget .wv-search-widget-flights-options.wv-form-block-group .wv-search-widget-flights-preferred-airline input[type='text'],
+  .data-wv-search-widget .wv-search-widget-flights-options.wv-form-block-group .wv-search-widget-flights-preferred-class input[type='text'] {
+    background-color: transparent;
+    border: 0;
+    outline: none;
+    height: 100%;
+  }
+  .data-wv-search-widget .wv-search-widget-flights-travelers.wv-form-block {
+    border: 1px solid #d4e0eb;
+    border-right-width: 0;
+    background-color: #fff;
+    height: 36px;
+    position: absolute;
+    right: 115px;
+    bottom: 0;
+    width: 260px;
+    display: table;
+  }
+  .data-wv-search-widget fieldset {
+    display: block;
+    position: relative;
+  }
+  .data-wv-search-widget .wv-search-widget-submit-wrapper {
+    bottom: 36px;
+    height: 36px;
+    position: absolute;
+    right: 0;
+    -webkit-transform: translateY(100%);
+    transform: translateY(100%);
+    width: 115px;
+    z-index: 10;
+  }
+  .data-wv-search-widget #widget-flights .wv-search-widget-submit-wrapper,
+  .data-wv-search-widget #widget-cruises .wv-search-widget-submit-wrapper {
+    top: -36px;
+  }
+  .data-wv-search-widget #widget-hideaways .wv-search-widget-submit-wrapper {
+    bottom: 38px
+  }
+  .data-wv-search-widget #widget-hideaways .wv-search-widget-submit-wrapper .wv-search-widget-submit>* {
+    height: 38px;
+  }
+  .data-wv-search-widget .wv-search-widget-cruise-wrapper {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+  }
+  .data-wv-search-widget #widget-flights .wv-search-widget-flights-travelers.wv-form-block {
+    top: 0;
+  }
+  .data-wv-search-widget #widget-rentals .wv-search-widget-submit-wrapper {
+    bottom: 178px;
+  }
+  .data-wv-search-widget #widget-rentals .wv-search-widget-submit-wrapper .wv-search-widget-submit>* {
+    border-radius: 4px;
+  }
+  .data-wv-search-widget .wv-search-widget-submit-wrapper .wv-search-widget-submit {
+    display: block;
+    position: relative;
+    height: 100%;
+    width: auto;
+  }
+  .data-wv-search-widget .wv-search-widget-submit-wrapper .wv-search-widget-submit>* {
+    display: block;
+    width: 100%;
+    height: 36px;
+    border: 0;
+    box-shadow: none;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    background-color: #ed8b00;
+    color: #fff;
+    font-size: 18px;
+    -webkit-transition: background-color .2s ease, box-shadow .2s ease;
+    transition: background-color .2s ease, box-shadow .2s ease;
+     z-index: 999999;
+
+  }
+  .data-wv-search-widget .wv-search-widget-flights-travelers.wv-form-block .wv-form-block-inner {
+    height: 34px;
+    border: none;
+    padding: 0 4px;
+  }
+  .data-wv-search-widget .datepicker {
+    top: 35px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, .2), 10px 10px 10px rgba(0, 0, 0, .2);
+  }
+  .data-wv-search-widgetfieldset {
+    display: block;
+    position: relative;
+  }
+  .data-wv-search-widget .wv-form-block-group-secondary {
+    height: 50px;
+  }
+  .data-wv-search-widget .wv-form-block-group-secondary .wv-form-block {
+    float: left;
+    min-width: 15.351%;
+  }
+  .data-wv-search-widget .wv-search-widget-flights-options .wv-search-widget-flights-trip-type .wv-form-block-inner,
+  .data-wv-search-widget .wv-search-widget-flights-options .wv-search-widget-flights-preferred-airline .wv-form-block-inner,
+  .data-wv-search-widget .wv-search-widget-flights-options .wv-search-widget-flights-preferred-class .wv-form-block-inner {
+    background-color: #fff;
+    border: 1px solid #d4e0eb;
+    border-radius: 4px;
+    height: 36px;
+    line-height: 36px;
+  }
+  .data-wv-search-widget .wv-form-block-group-secondary .wv-form-block:not(:first-child) {
+    margin-left: 2.368%;
+  }
+  .data-wv-search-widget .wv-search-widget-rentals-itins.wv-with-button {
+    margin-right: 125px;
+  }
+  .data-wv-search-widget .wv-search-button-rentals {
+    margin-top: 10px;
+  }
+  .data-wv-search-widget .wv-search-widget-repeat-wrapper+.wv-search-widget-repeat-wrapper {
+    margin-top: 10px;
+  }
+  .data-wv-search-widget .wv-search-widget-repeat-wrapper.wv-rental-options .wv-form-block.wv-search-widget-rentals-rental-agency {
+    width: 35%;
+  }
+  .data-wv-search-widget .wv-search-widget-repeat-wrapper.wv-rental-options .wv-form-block.wv-search-widget-rentals-contract-id,
+  .data-wv-search-widget .wv-search-widget-repeat-wrapper.wv-rental-options .wv-form-block.wv-search-widget-rentals-coupon-code {
+    width: 22%;
+  }
+  .data-wv-search-widget.wv-search-widget-repeat-wrapper.wv-rental-options .wv-form-block:not(:first-child) {
+    margin-left: 2.368%;
+  }
+  .data-wv-search-widget .wv-with-button.for-activities {
+    margin-right: 115px;
+  }
+  .data-wv-search-widget .wv-search-widget-repeat-wrapper .wv-form-block.calendar-input input[type='text'] {
+    padding-left: 5px;
+    margin-left: 15px;
+  }
+  .data-wv-search-widget .wv-search-widget-repeat-wrapper .wv-form-block.calendar-input input[type='text'].active {
+    background-color: #f3daee!important;
+    border-radius: 3px;
+  }
+  .data-wv-search-widget .calendar-input.rentals-calendar {
+    border-radius: 0!important;
+    width: 27%;
+    border-right-width: 0!important;
+  }
+  .data-wv-search-widget .wv-search-widget-repeat-wrapper .wv-search-widget-hotel-checkout.wv-form-block {
+    border-left-width: 0;
+  }
+  .data-wv-search-widget .wv-search-widget-rentals-time {
+    width: 18%;
+    border-right: 1px solid #d4e0eb!important;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    line-height: 36px;
+    padding: 0;
+  }
+  .data-wv-search-widget .wv-search-widget-cruise-destination,
+  .data-wv-search-widget .wv-search-widget-cruise-liner-select {
+    line-height: 36px;
+  }
+  .data-wv-search-widget .wv-search-widget-repeat-wrapper.wv-rental-options .wv-form-block:not(:first-child) {
+    margin-left: 2.368%;
+  }
+  .data-wv-search-widget .wv-search-widget-repeat-wrapper.wv-rental-options .wv-form-block {
+    border-right-width: 1px!important;
+    border-radius: 4px!important;
+    display: block;
+    float: left;
+  }
+  .data-wv-search-widget .wv-rental-options .wv-form-block-inner {
+    margin-top: 7px;
+    margin-left: 1px;
+  }
+  .data-wv-search-widget .wv-search-widget-rentals-add-more a.minus {
+    margin-right: 10px;
+  }
+}
+
+.datepicker {
+  position: absolute;
+  right: -100px;
+  top: 45px;
+  margin-top: 15px;
+  background: #fff;
+  z-index: 15;
+  border: 1px solid #d4e0eb;
+  border-radius: 6px;
+}
+
+.datepicker fieldset.form-group {
+  border-radius: 6px;
+}
+
+.datepicker .arrow-top {
+  position: relative;
+  background: #fff;
+}
+
+.datepicker .form-group {
+  margin: 0;
+}
+
+.datepicker fieldset .form-check.travel-period-select-container {
+  border-bottom: 1px solid #d4e0eb;
+}
+
+.datepicker fieldset .form-check {
+  padding: 15px;
+}
+
+.datepicker fieldset .form-check .label-title {
+  margin: 0 0 15px;
+  color: #4a5058;
+}
+
+.datepicker .wv-input-containers {
+  min-width: 595px;
+}
+
+.dropup,
+.dropdown {
+  position: relative;
+}
+
+.data-wv-search-widget .datepicker-trigger-text {
+  position: absolute;
+  bottom: -16px;
+  width: 100%;
+  outline: none;
+  border: none;
+  background: none;
+}
+
+.data-wv-search-widget .wv-dropdown-button {
+  width: 100%;
+  background: transparent;
+  padding: 0 4px;
+  border: none;
+  text-align: left;
+  outline: none;
+}
+
+.data-wv-search-widget .wv-dropdown-button:after {
+  background: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/arrowdown.svg") no-repeat;
+  background-size: 15px 15px;
+  content: '';
+  position: absolute;
+  top: 12px;
+  right: 15px;
+  height: 15px;
+  width: 15px;
+}
+
+.datepicker .datepicker-dropdown {
+  background: #fff;
+  border: 1px solid #d4e0eb;
+  border-radius: 3px;
+  outline: none;
+  padding: 13px 13px 12px;
+  position: relative;
+  text-align: left;
+  width: 100%;
+}
+
+.data-wv-search-widget .event-active .dropdown-menu {
+  display: block;
+}
+
+.data-wv-search-widget .open .wv-dropdown-button:after {
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+
+.data-wv-search-widget .date-picker .dropdown .dropdown-menu {
+  min-height: 50px;
+  max-height: 200px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  border: 1px solid #d4e0eb;
+  border-radius: 3px;
+  background: #fff;
+  top: 45px;
+  left: 0;
+  right: 0;
+  padding: 8px 10px 5px 15px;
+  width: 100%;
+}
+
+.data-wv-search-widget .dropdown-menu {
+  max-height: 300px;
+  overflow-x: hidden;
+  margin-top: 0px;
+  border-radius: 0;
+  border-color: #d4e0eb;
+  margin-left: -1px;
+  min-width: inherit;
+}
+
+.data-wv-search-widget .date-picker .dropdown .dropdown-menu>li {
+  position: relative;
+}
+
+.dropdown-menu>li>a {
+  display: block;
+  padding: 3px 20px;
+  clear: both;
+  font-weight: normal;
+  line-height: 1.42857;
+  color: #333;
+  white-space: nowrap;
+}
+
+.datepicker .arrow-top:after,
+.datepicker .arrow-top:before {
+  top: -33px;
+  right: 300px;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+}
+
+.datepicker .arrow-top:before {
+  border-color: rgba(102, 102, 102, 0);
+  border-bottom-color: #d4e0eb;
+  border-width: 20px;
+  margin-top: -8px;
+}
+
+.datepicker fieldset .form-check label {
+  width: 100%;
+  padding-right: 15px;
+}
+
+.datepicker .dt-dropdown.event-active .wv-featured-filter-button:after {
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+
+.datepicker .dt-dropdown.event-active .dropdown-menu {
+  display: block;
+}
+
+.datepicker .wv-featured-filter-button.wv-expanded:after,
+.datepicker .wv-featured-filter-button.wv-collapsed:after {
+  background: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/arrowdown.svg") no-repeat;
+  background-size: 15px 15px;
+  content: '';
+  position: absolute;
+  top: 12px;
+  right: 15px;
+  height: 15px;
+  width: 15px;
+}
+
+.datepicker .arrow-top:after {
+  border-color: rgba(238, 238, 238, 0);
+  border-bottom-color: #fff;
+  border-width: 20px;
+  margin-top: -7px;
+}
+
+.wv-widget-wrapper .counter .count .age-range {
+  font-size: 12px;
+}
+
+.data-wv-search-widget .wv-search-widget-dreamtrips-itins .calendar-input.wv-form-block:not(.wv-search-widget-flights-multi-city-controls).full-width {
+  width: 44%;
+}
+
+.data-wv-search-widget .datepicker,
+.data-wv-search-widget .wv-search-widget-dreamtrips .wv-search-widget-repeat-wrapper .wv-form-block.wv-search-widget-dreamtrips-returning,
+.data-wv-search-widget .wv-search-widget-cruise .wv-search-widget-repeat-wrapper .wv-form-block.wv-search-widget-dreamtrips-returning {
+  display: none;
+}
+
+.data-wv-search-widget .wv-search-widget-submit-wrapper .wv-search-widget-submit>* {
+  outline: none;
+}
+
+.open>.dropdown-menu {
+  display: block;
+  width: 100%;
+}
+
+.wv-widget-wrapper .counters,
+.wv-widget-wrapper .children-age-listing {
+  width: 100%;
+  float: left;
+  height: auto;
+}
+
+.no-gutter {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.wv-widget-wrapper .counter>div:first-child {
+  padding: 10px 0 6px 10px;
+}
+
+.wv-widget-wrapper .info-display {
+  float: left;
+}
+
+.wv-widget-wrapper .counter-controls {
+  float: right;
+  text-align: center;
+  line-height: 0;
+  padding-top: 12px;
+}
+
+.wv-widget-wrapper .counter-controls .decrement {
+  margin-right: 15px;
+}
+
+.dt-btn-decrement {
+  background-image: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/btn-minus.svg");
+}
+
+.dt-btn-increment {
+  background-image: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/btn-plus.svg");
+}
+
+.dt-btn-increment,
+.dt-btn-decrement {
+  display: inline-block;
+  cursor: pointer;
+  background-color: #fff;
+  background-repeat: no-repeat;
+  border: 0;
+  background-position: 0 0;
+  height: 33px;
+  width: 33px;
+}
+
+.wv-widget-wrapper .counter .count,
+.wv-widget-wrapper .counter .label {
+  font-size: 18px;
+  font-weight: bold;
+  color: #000;
+}
+
+.wv-widget-wrapper .counter .count,
+.wv-widget-wrapper .counter .label {
+  font-size: 18px;
+  font-weight: bold;
+  color: #000;
+}
+
+.wv-widget-wrapper .counter .label {
+  font-weight: lighter;
+  padding: 0 0 0 .3em;
+}
+
+.wv-widget-wrapper .counter>div:first-child {
+  padding: 10px 0 6px 10px;
+}
+
+.wv-widget-wrapper .info-display {
+  float: left;
+}
+
+.wv-widget-wrapper .counters,
+.wv-widget-wrapper .children-age-listing {
+  width: 100%;
+  float: left;
+  height: auto;
+}
+
+button[disabled],
+html input[disabled] {
+  cursor: default;
+}
+
+.dt-btn-increment:disabled {
+  background-image: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/btn-plus-disabled.svg");
+}
+
+.dt-btn-decrement:disabled {
+  background-image: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/btn-minus-disabled.svg");
+}
+
+.wv-widget-wrapper .counters.add-divider,
+.wv-widget-wrapper .children-age-listing.add-divider {
+  border-bottom: 1px dotted #c2d0dd;
+  padding-bottom: 5px;
+}
+
+.wv-widget-wrapper .children-age-listing {
+  padding: 0;
+  display: none;
+  border-top: 1px dotted #ccc;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.wv-widget-wrapper .children-age-listing .children-age-header {
+  text-align: center;
+  float: left;
+  width: 97%;
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+
+.wv-widget-wrapper .children-age-listing .child-age-container .age {
+  text-align: center;
+  width: 100%;
+}
+
+.wv-widget-wrapper .children-age-listing .child-age-container:last-child {
+  margin-bottom: 0;
+}
+
+.wv-widget-wrapper .children-age-listing .child-age-container {
+  min-height: 45px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin: 5px 0;
+}
+
+.wv-widget-wrapper .children-age-listing .child-age-container .child-age-label-container {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.wv-widget-wrapper .children-age-listing .child-age-container .label {
+  font-weight: lighter;
+}
+
+.wv-widget-wrapper .children-age-listing .child-age-container .label,
+.wv-widget-wrapper .children-age-listing .child-age-container .age {
+  float: left;
+  color: #000;
+  font-size: 16px;
+  width: 51%;
+  margin-top: 5px;
+}
+
+.wv-widget-wrapper .children-age-listing .child-age-container .seat-lap-selection-container .input-container {
+  float: left;
+}
+
+.wv-widget-wrapper .children-age-listing .child-age-container .seat-lap-selection-container input[type="radio"]+label {
+  position: static;
+  width: 100%;
+  margin-left: 0;
+}
+
+.wv-input-label,
+input.wv-input[type="checkbox"]+label,
+input.wv-input[type="checkbox"]:active+label,
+input.wv-input[type="checkbox"]:checked+label,
+input.wv-input[type="checkbox"]:checked:active+label,
+input.wv-input[type="checkbox"]:focus+label,
+input.wv-input[type="checkbox"]:disabled+label,
+input.wv-input[type="checkbox"]:checked:disabled+label,
+input.wv-input[type="radio"][type="radio"]+label,
+input.wv-input[type="radio"][type="radio"]:active+label {
+  display: inline-block;
+  min-height: 22px;
+  font-weight: 400;
+  background: #fff;
+  vertical-align: middle;
+  color: #4a5058;
+  cursor: pointer;
+  line-height: 16px;
+  vertical-align: top;
+  margin-top: 10px;
+  padding-top: 0;
+  
+  padding-left: 22px;
+}
+
+input.wv-input[type="radio"] {
+  display: none;
+}
+
+input.wv-input[type="radio"][type="radio"]+label {
+  background: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/radio-unchecked.svg") no-repeat;
+  background-size: 16px 16px;
+}
+
+input.wv-input[type="radio"][type="radio"]:checked+label {
+  background: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/radio-checked.svg") no-repeat;
+  background-size: 16px 16px;
+}
+
+.wv-widget-wrapper .counter-controls.child-age-controls {
+  padding: 0;
+}
+
+.pkgsearch label.error.sch {
+  text-transform: none;
+}
+
+.data-wv-search-widget .wv-search-widget-rentals-location-pickup .wv-form-block-inner:before,
+.data-wv-search-widget .wv-search-widget-rentals-location-dropoff .wv-form-block-inner:before {
+  content: '';
+  height: 30px;
+  width: 30px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  left: 3px;
+}
+
+.data-wv-search-widget .wv-search-widget-rentals-location-pickup .wv-form-block-inner:before {
+  background-image: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/rentals_pickup.svg");
+}
+
+.data-wv-search-widget .wv-search-widget-rentals-location-dropoff .wv-form-block-inner:before {
+  background-image: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/rentals_dropoff.svg");
+}
+
+.data-wv-search-widget .wv-search-button-rentals {
+  border-radius: 4px;
+}
+
+.data-wv-search-widget .toggler-button {
+  width: 27px;
+  height: 27px;
+  line-height: 24px;
+  border: 2px solid #d3d3d3;
+  border-radius: 3px;
+  color: #b0008e;
+  text-align: center;
+  font-size: x-large;
+  display: inline-block;
+  margin: 5px;
+  top: 4px;
+  position: relative;
+}
+
+.data-wv-search-widget .wv-search-widget-rentals-add-more a {
+  border: 3px solid #d4e0eb;
+  border-radius: 15px;
+  float: left;
+  font-size: 30px;
+  height: 30px;
+  line-height: 24px;
+  text-align: center;
+  width: 30px;
+  margin-right: 10px;
+}
+
+.data-wv-search-widget.wv-search-widget-rentals-add-more a:not(.active) {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  opacity: .3;
+}
+
+.data-wv-search-widget.wv-search-widget-rentals-add-more a.minus {
+  margin-right: 10px;
+}
+
+.data-wv-search-widget .wv-form-block-group-secondary .wv-form-block .non-stop-label {
+  vertical-align: top;
+  font-weight: normal;
+}
+
+.data-wv-search-widget .wv-form-block-group-secondary .wv-form-block .wv-form-block-inner {
+  margin-top: 10px;
+}
+
+.data-wv-search-widget .wv-form-block-group-secondary .wv-search-widget-flights-non-stop {
+  margin-top: 10px;
+}
+
+.datepicker .arrow-top:after,
+.datepicker .arrow-top:before {
+  right: 250px;
+}
+
+#filter-section-datepicker .arrow-top:after,
+#filter-section-datepicker .arrow-top:before {
+  right: 335px;
+}
+
+
+
+
+.pax-wrapper {
+  overflow: hidden;
+  background: #fff;
+  padding: 10px 10px 0 10px;
+}
+
+.pax-wrapper .numbers-row {
+  text-align: right;
+  clear: both;
+  margin-bottom: 20px;
+}
+
+ .pax-wrapper .numbers-row.childagewrapper .lbl-pax{
+      margin-right:10px;
+      padding:0;
+  }
+
+  .pax-wrapper .numbers-row.childagewrapper {
+      padding:0;
+  }
+.pax-wrapper .numbers-row span {
+  float: left;
+  margin-left: -15px;
+  font-size: 12px;
+}
+
+.pax-wrapper .numbers-row > div {
+  display: inline-block;
+  cursor: pointer;
+}
+
+.pax-wrapper .numbers-row .button span.btn-plus {
+  padding: 0px 2px;
+  color: #c4262e;
+  font-size: 17px;
+  font-weight: bold;
+  margin-top: -2px;
+  margin-left: 2px;
+}
+
+.pax-wrapper .numbers-row .button span.btn-minus {
+  margin-left: 2px;
+  margin-top: -10px;
+  font-size: 25px;
+}
+
+.pax-wrapper .numbers-row .button span.btn-plus::selection {
+  color: #c4262e;
+  background: transparent;
+}
+
+.pax-wrapper .numbers-row1 {
+  padding: 10px;
+  text-align: left;
+}
+
+.pax-wrapper .numbers-row1 span {
+  font-weight: bold;
+}
+
+.pax-wrapper .numbers-row1 input {
+  width: 15px;
+  border: 0px;
+  float: left;
+  line-height: 17px;
+  background: transparent;
+  font-weight: bold;
+}
+
+.pax-wrapper-inn {
+  overflow: hidden;
+  padding-bottom: 5px;
+}
+
+.pax-wrapper .numbers-row.title {
+  margin-left: 0px;
+  padding: 10px 5px 10px 10px;
+  border-bottom: 1px solid #d6d6d6;
+}
+
+.pax-wrapper .numbers-row.title span {
+  font-size: 14px;
+  font-weight: bold;
+  color: #505050;
+}
+
+.pax-wrapper .numbers-row.title input {
+  font-size: 14px;
+  font-weight: bold;
+  color: #505050;
+  height: 19px;
+}
+
+.pax-wrapper .numbers-row .lbl-pax {
+  float: left;
+}
+
+.pax-wrapper .numbers-row .lbl-pax label {
+  display: block;
+  text-align: left;
+  margin-bottom: 0;
+  font-size: 18px;
+  font-weight: lighter;
+  color: #000;
+}
+
+.data-wv-search-widget .wv-form-block .wv-form-block-inner .pax-wrapper .numbers-row input[type=text] {
+  width: 20px;
+  border: 0px;
+  float: left;
+  background: transparent;
+  font-size: 18px;
+  font-weight: bold;
+  display:inline-block;
+  line-height:18px;
+  
+}
+
+.data-wv-search-widget .wv-search-widget-flights-travelers .wv-dropdown-button.pax-dropdown {
+  padding: 7px;
+}
+
+.data-wv-search-widget .wv-search-widget-cruise-destination .wv-dropdown-button.pax-dropdown {
+  padding: 0 4px;
+}
+
+.data-wv-search-widget .wv-search-widget-cruise-wrapper .wv-dropdown-button.pax-dropdown {
+  padding: 5px 8px;
+}
+
+.data-wv-search-widget .wv-search-widget-cruise-wrapper .nights-selecter > span {
+  display: block;
+}
+
+.data-wv-search-widget .wv-search-widget-cruise-wrapper .nights-selecter .cruise-quatity {
+  width: 20%;
+  float: left;
+  font-weight: bold;
+}
+
+.data-wv-search-widget .wv-search-widget-cruise-wrapper .nights-selecter .dt-btn-increment,
+.data-wv-search-widget .wv-search-widget-cruise-wrapper .nights-selecter .dt-btn-decrement {
+  float: right;
+  height: 24px;
+  width: 24px;
+  outline: 0;
+}
+
+.data-wv-search-widget .wv-search-widget-cruise-wrapper .nights-selecter .dt-btn-increment {
+  margin-right: 5px;
+}
+
+.data-wv-search-widget .wv-search-widget-cruise-wrapper .wv-dropdown-list {
+  border-radius: 4px;
+  padding-bottom: 20px;
+}
+
+#wvdatepicker {
+  display: none;
+}
+
+#wvdatepicker {
+  font-family: "Nexa", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+}
+
+#wvdatepicker .ui-datepicker .ui-datepicker-header {
+  background: none;
+  border: 0;
+}
+
+#wvdatepicker .ui-state-default,
+#wvdatepicker .ui-widget-content .ui-state-default {
+  background: #fff;
+  border: 0px solid #c2d0dd;
+  line-height: 35px;
+  font-weight: bold;
+  font-family: "Nexa", Helvetica, Arial, sans-serif;
+}
+
+#wvdatepicker .ui-datepicker td {
+  width: 43px;
+  border: 1px solid #c2d0dd;
+  padding: 0px;
+}
+
+#wvdatepicker .ui-datepicker-inline {
+  width: 100%!important;
+}
+
+#wvdatepicker .ui-state-active {
+  background-color: #b0008e!important;
+  color: #fff!important;
+}
+
+#wvdatepicker .ui-datepicker-group-first {
+  padding-right: 10px;
+}
+
+#wvdatepicker .ui-datepicker-group-last {
+  padding-left: 10px;
+  border: 0px solid #ccc;
+}
+
+#wvdatepicker .ui-state-disabled,
+#wvdatepicker .ui-widget-content .ui-state-disabled {
+  border-color: #d4e0eb;
+  background-color: #f9fbfd;
+  color: #a1acb6;
+  cursor: not-allowed;
+}
+
+#wvdatepicker .ui-widget-content,
+#CruiseWvDatepicker .ui-widget-content,
+#filter-datepicker .ui-widget-content {
+  background: none!important;
+  box-shadow: none;
+}
+
+#wvdatepicker .ui-datepicker .ui-datepicker-title {
+  font-size: 18px;
+  color: #4a5058;
+}
+
+#wvdatepicker a.ui-state-hover {
+  background-color: #f3daee!important;
+}
+
+#wvdatepicker .ui-datepicker-row-break {
+  display: none;
+}
+
+#wvdatepicker .ui-datepicker-multi .ui-datepicker-group {
+  display: inline-block;
+}
+
+#wvdatepicker .ui-datepicker-today a {
+  color: #444!important;
+  background: #f3daee!important;
+}
+
+.ui-widget-content .ui-icon {
+  background: #fff url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/arrowdown.svg") no-repeat center;
+}
+
+.ui-icon-circle-triangle-w {
+  transform: rotate(90deg);
+}
+
+.ui-icon-circle-triangle-e {
+  transform: rotate(270deg);
+}
+
+.ui-datepicker .ui-datepicker-prev-hover {
+  left: 2px;
+}
+
+.ui-state-hover,
+.ui-widget-content .ui-state-hover,
+.ui-widget-header .ui-state-hover {
+  background-color: none;
+  border: 0;
+  background: none;
+}
+
+.wv-searchtxtbox {
+  vertical-align: middle;
+  border: 1px solid #d4e0eb;
+  margin-right: -1px;
+  background-color: #fff;
+  height: 36px;
+  float: left;
+  min-width: 21.5%;
+  padding: 8px;
+}
+
+.wv-searchtxtbox .wv-form-block-inner input {
+  background-color: transparent;
+  border: 0;
+  outline: none;
+  height: 100%;
+}
+
+.mt10 {
+  margin-top: 10px;
+}
+
+.wv-link-search a {
+  border: 3px solid #d4e0eb;
+  border-radius: 15px;
+  float: left;
+  font-size: 30px;
+  height: 30px;
+  line-height: 24px;
+  text-align: center;
+  width: 30px;
+  margin: 2px 0 0 10px;
+}
+
+.wv-cloneinn {
+  clear: both;
+  display: inline-block;
+  width: 100%;
+}
+
+#wvdatepicker .ui-datepicker-calendar .dp-highlight .ui-state-active {
+  background-color: #b0008e!important;
+}
+
+#wvdatepicker .ui-datepicker-calendar .dp-highlight a {
+  background: #f3daee!important;
+}
+
+
+
+
+.ui-datepicker {
+  font-family: "Nexa", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  background: #fff;
+  padding: 10px;
+  border-radius: 0px;
+  box-shadow: 2px 2px 5px #ccc;
+  width: auto!important;
+}
+
+.ui-datepicker .ui-datepicker-header {
+  background: none!important;
+  border: 0!important;
+}
+
+.ui-datepicker .ui-state-default,
+.ui-datepicker .ui-widget-content .ui-state-default {
+  background: #fff;
+  border: 0px solid #c2d0dd;
+  line-height: 35px;
+  font-weight: bold;
+  font-family: "Nexa", Helvetica, Arial, sans-serif;
+}
+
+.ui-datepicker td {
+  width: 43px;
+  border: 1px solid #c2d0dd;
+  padding: 0px;
+}
+
+.ui-datepicker-inline {
+  width: 100%!important;
+}
+
+.ui-datepicker .ui-state-active {
+  background-color: #b0008e!important;
+  color: #fff!important;
+}
+
+.ui-datepicker-group-first {
+  padding-right: 10px;
+}
+
+.ui-datepicker-group-last {
+  padding-left: 10px;
+  border: 0px solid #ccc;
+}
+
+.ui-datepicker .ui-state-disabled,
+.ui-datepicker .ui-widget-content .ui-state-disabled {
+  border-color: #d4e0eb;
+  background-color: #f9fbfd;
+  color: #a1acb6;
+  cursor: not-allowed;
+}
+
+.ui-datepicker .ui-widget-content {
+  background: none!important;
+}
+
+.ui-datepicker .ui-datepicker-title {
+  font-size: 18px;
+  color: #4a5058;
+}
+
+.ui-datepicker a.ui-state-hover {
+  background-color: #f3daee!important;
+}
+
+.ui-datepicker .ui-datepicker-row-break {
+  display: none;
+}
+
+.ui-datepicker .ui-datepicker-multi .ui-datepicker-group {
+  display: inline-block;
+  margin: 5px;
+}
+
+.ui-datepicker .ui-datepicker-today a {
+  color: #444!important;
+  background: #f3daee!important;
+}
+
+.ui-datepicker .ui-datepicker-calendar .dp-highlight .ui-state-active {
+  background-color: #b0008e!important;
+}
+
+.ui-datepicker .ui-datepicker-calendar .dp-highlight a {
+  background: #b0008e!important;
+  color: #fff!important;
+}
+
+
+
+
+.wv-flightclonecont .wv-search-widget-add-btn {
+  color: #d4e0eb;
+  cursor: text;
+}
+
+.wv-flightclonecont .wv-cloneinn:last-child .wv-link-search .wv-search-widget-add-btn {
+  color: #0076CE;
+  cursor: pointer;
+}
+
+.mcitytrip .wv-link-search .wv-search-widget-add-btn.disablelink {
+  color: #d4e0eb;
+}
+
+.mcitytrip .wv-link-search .wv-search-widget-remove-btn.disablelink {
+  color: #d4e0eb;
+}
+
+.mcitytrip {
+  margin-bottom: 5px;
+}
+
+.wv-rentalclonecont .wv-cloneinn:last-child .rental-add-btn {
+  color: #0076CE;
+  cursor: pointer;
+}
+
+.rental-remove-btn.disablelink {
+  color: #d4e0eb;
+  cursor: text;
+}
+
+.rental-add-btn.disablelink {
+  color: #d4e0eb;
+  cursor: text;
+}
+
+.rentaloptions .rental-remove-btn {
+  color: #d4e0eb;
+  cursor: text;
+}
+
+.isrentaloptions {
+  margin-top: 15px;
+  display: none;
+}
+
+.wv-rentalclonecont {
+  margin-top: 5px;
+}
+
+.data-wv-search-widget .wv-search-widget-repeat-wrapper.mcitytrip {
+  display: none;
+}
+
+.data-wv-search-widget .wv-dropdown-button.pax-dropdown input {
+  width: 100px;
+  display: inline-block;
+}
+
+
+
+.data-wv-search-widget #widget-flights .wv-dropdown-button.pax-dropdown input:first-child {
+  width: 45px;
+}
+
+.pax-wrapper .childagewrapper input {
+  margin-left: 55px;
+}
+
+.pax-wrapper .numbers-row:last-child {
+  margin-bottom: 0
+}
+
+.data-wv-search-widget .wv-search-widget-flights-travelers.wv-form-block .wv-form-block-inner .dropdown-menu {
+  border-radius: 5px;
+}
+
+#bookTravelContent {
+  display: none;
+}
+
+.data-wv-search-widget .wv-search-widget-rentals-rental-agency button {
+  height: 36px;
+}
+
+.data-wv-search-widget .wv-search-widget-rentals-add-more {
+  width: 15%;
+  float: right;
+  padding: 3px 0 0;
+}
+
+.data-wv-search-widget input.hasDatepicker {
+  background: none;
+  padding: 0;
+}
+
+.data-wv-search-widget .icon.icon-hideouts {
+  font-size: 24px;
+  display: inline-block;
+  position: absolute;
+  left: 5px;
+  top: 6px;
+}
+
+.wv-search-widget-cruise .datepicker .arrow-top:after,
+.wv-search-widget-cruise .datepicker .arrow-top:before {
+  right: 63%;
+}
+
+@media screen and (max-width: 1050px) and (min-width: 992px) {
+ 
+  .data-wv-search-widget .icon.icon-hideouts {
+    font-size: 18px;
+  }
+  .wv-search-widget-nav >li >a.wv-search-widget-nav-opt-cruises {
+    background-size: 30px;
+  }
+ 
+  .wv-search-widget-nav li {
+    padding-left: 7px;
+  }
+  .wv-explore-menu-list li {
+    width: 245px;
+  }
+  .data-featured-trip-filter .wv-featured-trip-filter-regions {
+    margin-left: 0;
+  }
+}
+@media screen and (max-width: 1024px) and (min-width: 768px) {
+    .data-wv-search-widget .wv-form-block .wv-form-block-inner .pax-wrapper .numbers-row input[type=text] {
+        padding: 0 0 1px 0;
+    }
+}
+@media screen and (max-width: 991px) and (min-width: 768px) {
+
+  .childagewrapper .ChildAgePaxCount{
+         padding-top:0;
+  }
+  .data-wv-search-widget .wv-dropdown-button,
+  .data-wv-search-widget .SumoSelect,
+  .data-wv-search-widget .wv-form-block-group-secondary .wv-form-block .non-stop-label,
+  .data-wv-search-widget .dropdown-menu,
+  .data-wv-search-widget .wv-search-widget-repeat-wrapper input[type='text'] {
+    font-size: 12px;
+  }
+  .data-wv-search-widget .wv-form-block-group-secondary .wv-form-block {
+    min-width: 20%;
+  }
+  .data-wv-search-widget .wv-search-widget-cruise-wrapper .wv-form-block-group-secondary .wv-form-block {
+    width: 26%;
+  }
+  .wv-search-widget-cruise .datepicker .arrow-top:after,
+  .wv-search-widget-cruise .datepicker .arrow-top:before {
+    right: 75%;
+  }
+  .data-wv-search-widget .wv-search-widget-flights-travelers .wv-dropdown-button.pax-dropdown {
+    padding: 9px;
+  }
+  .data-wv-search-widget nav .wv-search-widget-nav li {
+    padding-left: 7px;
+  }
+  .data-wv-search-widget nav .wv-search-widget-nav li a:not(.wv-search-widget-nav-opt-cruises) {
+    background-size: 18px;
+  }
+     .wv-search-widget-nav > li > a.wv-search-widget-nav-opt-anytime-escapes {
+        background-size: 25px!important;
+    }
+     .wv-search-widget-nav >li >a.wv-search-widget-nav-opt-anytime-escapes > .wv-search-widget-nav-title{
+         margin-left: 8px;
+     }
+  .data-wv-search-widget nav .wv-search-widget-nav li a {
+    padding: 8px 5px 8px 32px;
+  }
+  .data-wv-search-widget nav .wv-search-widget-nav li .wv-search-widget-nav-title {
+    font-size: 11px;
+  }
+  .data-wv-search-widget .wv-search-widget-flights-travelers.wv-form-block {
+    width: 160px;
+  }
+  .data-wv-search-widget .datepicker {
+    right: initial;
+    left: 5%;
+  }
+  .data-wv-search-widget .wv-with-button {
+    margin-right: 275px;
+  }
+  .data-wv-search-widget .wv-dropdown-button.pax-dropdown input {
+    width: 40%;
+    display: inline-block;
+  }
+  .data-wv-search-widget .wv-search-widget-dreamtrips-itins .calendar-input.wv-form-block:not(.wv-search-widget-flights-multi-city-controls) {
+    width: 28%;
+  }
+  .data-wv-search-widget #widget-flights .wv-search-widget-submit-wrapper {
+    bottom: 0;
+    top: -36px;
+  }
+  .data-wv-search-widget nav .wv-search-widget-nav li a.wv-search-widget-nav-opt-cruises {
+    background-size: 27px;
+    padding-left: 39px;
+  }
+  .dt-btn-increment,
+  .dt-btn-decrement {
+    height: 20px;
+    width: 20px;
+  }
+  .pax-wrapper .numbers-row input,
+  .pax-wrapper .numbers-row .lbl-pax label {
+    font-size: 16px;
+  }
+
+  .pax-wrapper .childagewrapper input {
+    margin-left: 15px;
+  }
+  .data-wv-search-widget .rez-ac-wrapper {
+    width: 250px;
+  }
+  .data-wv-search-widget .wv-searchtxtbox {
+    min-width: initial;
+  }
+  .data-wv-search-widget .icon.icon-hideouts {
+    font-size: 18px;
+  }
+}
+.childagewrapper .ChildAgePaxCount {
+  padding: 0;
+  margin:  0!important;
+  padding-top:4px;
+}
+
+
+.data-wv-search-widget .errorcontainer {
+  border: 1px solid #d4e0eb;
+  border-radius: 4px;
+  color: #fb3d4f;
+  padding: 15px;
+}
+
+.data-wv-search-widget .errorcontainer label h4,
+.data-wv-search-widget .errorcontainer label {
+  font-size: 14px;
+  font-weight: normal;
+  font-family: "Effra", Helvetica, Arial, sans-serif;
+}
+
+.datepicker-mobile-header {
+  display: none;
+}
+
+.data-wv-search-widget .wv-search-widget-sub-form.wv-search-widget-flights {
+  position: relative;
+}
+
+.data-wv-search-widget .wv-search-widget-rentals-location-pickup .wv-form-block-inner input[type=text],
+.data-wv-search-widget .wv-search-widget-rentals-location-dropoff .wv-form-block-inner input[type=text] {
+  padding-left: 33px!important;
+}
+
+.wv-search-widget-nav li a.wv-search-widget-nav-opt-hideaways {
+  padding: 10px 5px 10px 35px;
+}
+
+.data-wv-search-widget .wv-flightclonecont {
+  display: none;
+  width: 100%;
+}
+
+.wv-search-widget-cruise .datepicker {
+  left: 0;
+  right: initial;
+}
+
+.wv-search-widget-rentals-wrapper {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+}
+
+.data-wv-search-widget .wv-search-widget-rentals-wrapper .wv-search-widget-submit-wrapper {
+  transform: none;
+  top: 0;
+}
+
+.data-wv-search-widget .wv-search-widget-hideaways .wv-search-widget-cruise-destination,
+.data-wv-search-widget .wv-search-widget-hideaways .wv-search-widget-cruise-liner-select {
+  width: 35%;
+}
+
+.wv-search-widget-flights-travelers .dropdown-menu .datepicker-close-box {
+  position: initial;
+  right: 0;
+  top: 0;
+}
+
+.icon-close-box-mobile {
+  background-image: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/close-mobile.svg");
+  background-position: center center;
+  cursor: pointer;
+  float: right;
+  height: 22px;
+  position: absolute;
+  top: 11px;
+  right: 15px;
+  width: 22px;
+  color: #fff;
+}
+
+.wv-search-widget-flights-travelers .dropdown-menu .travel-counter-title {
+  width: 80%;
+}
+
+.wv-search-widget-flights-travelers .dropdown-menu .mobile-header {
+  background: #a1acb6;
+  font-size: 16px;
+  padding: 10px 15px;
+  color: #fff;
+  width: 100%;
+  height: 40px;
+  display: none;
+}
+
+.datepicker .datepicker-mobile-footer {
+  font-size: 16px;
+  color: #fff;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  display: none;
+}
+
+.datepicker .datepicker-mobile-footer div.cancel {
+  background: #a1acb6;
+}
+
+.datepicker .datepicker-mobile-footer div {
+  width: 50%;
+  padding: 10px 15px;
+  float: left;
+  text-align: center;
+}
+
+.datepicker .datepicker-mobile-footer div.accept {
+  background: #ed8b00;
+}
+
+.dropdown .dropdown-placeholder {
+  cursor: pointer;
+  width: 100%;
+}
+
+.search-params-bar {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  z-index: 100;
+  display: none;
+  align-items: center;
+  min-height: 60px;
+  margin-top: -15px;
+  text-transform: uppercase;
+  color: #fff;
+  font-size: x-small;
+  background: -webkit-linear-gradient(left, #8b4fae, #0033a0);
+  background: linear-gradient(to right, #8b4fae, #0033a0);
+}
+
+.search-params-bar p {
+  max-height: 25px;
+  word-break: break-all;
+  margin: 0;
+}
+
+.search-params-bar .lighttext {
+  font-size: .8rem;
+  line-height: 1rem;
+  font-weight: 200;
+}
+
+.search-params-bar #dt-destination {
+  font-size: 10px;
+  line-height: 28px;
+  font-weight: 200;
+}
+
+.search-params-bar .boldtext {
+  font-size: .9rem;
+  line-height: 1rem;
+  font-weight: 400;
+}
+
+.search-params-bar .icon-search {
+  background: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/search_white.svg") no-repeat center center;
+  background-size: .9rem;
+  width: auto;
+  height: 1.2rem;
+  display: block;
+}
+
+.search-params-bar a {
+  color: #fff;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 767px) {
+    .calendar-input .wv-form-block-inner input{
+       -webkit-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    -o-user-select:none;
+    user-select:none;
+}
+  .edit-search-icon{
+    margin-left: -5px;
+  }
+  .data-wv-search-widget div.calendar-input.wv-form-block.wv-searchtxtbox.departure {
+    padding: 0 0 0 7px;
+    margin-top: 0;
+  }
+  .data-wv-search-widget .wv-form-block.wv-searchtxtbox.departure .wv-form-block-inner input[type=text] {
+    border: 0;
+  }
+  .wv-link-search a {
+    margin-bottom: 5px;
+  }
+  #div_homeDetails .search-params-bar {
+    display: none;
+  }
+  .data-wv-search-widget .wv-search-widget-rentals-wrapper .wv-search-widget-submit-wrapper {
+    top: initial;
+  }
+  .search-params-bar {
+    display: flex;
+    position: fixed;
+    left: 0;
+  }
+  .search-params-bar .boldtext {
+    padding: 5px 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 73%;
+    display: inline-block;
+  }
+  .search-params-bar #dt-destination {
+    line-height: 23px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 73%;
+    display: inline-block;
+  }
+  .search-params-bar {
+    padding-top: 5px;
+  }
+  .data-wv-search-widget .icon.icon-hideouts {
+    left: 0;
+    width: 100%;
+  }
+  .wv-search-widget-nav li a.wv-search-widget-nav-opt-hideaways {
+    padding-left: 0;
+    padding-right: 0;
+    margin-top:5px;
+  }
+
+  .wv-search-widget-nav li a.wv-search-widget-nav-opt-hideaways .wv-search-widget-nav-title{
+      padding-top: 25px;
+  }
+   .wv-search-widget-nav > li.active > .wv-search-widget-nav-opt-hideaways .arrowmark{
+      top:0;
+  }
+  .data-wv-search-widget {
+    background-color: #f9fbfd;
+    height: 100%;
+    left: 0;
+    overflow: auto;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1500;
+    padding: 0;
+    display: none;
+    padding-bottom: 40px;
+  }
+  .data-wv-search-widget .tab-content.wv-search-widget-sub-form-wrapper {
+   margin-top: 28px;
+    padding-left: 80px;
+    padding-right: 10px;
+    max-width: 750px;
+    width: 100%;
+  }
+  .data-wv-search-widget nav li .wv-search-widget-nav-title-sub{
+     font-size:9px;
+     max-width: 92%;
+    text-overflow: ellipsis;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+  .wv-search-widget-nav li{
+      padding-top:0;
+  }
+  .data-wv-search-widget nav li a{
+      border-radius:0;
+  }
+  .data-wv-search-widget .condition {
+    padding: 0;
+  }
+  .data-wv-search-widget nav {
+    height: 30px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index:999;
+  }
+  .data-wv-search-widget nav .wv-search-widget-nav {
+    margin-top: 0;
+    height: 1000px;
+    padding: 0;
+    position: relative;
+    table-layout: auto;
+    width: 75px;
+    border-right: 1px solid #b0008e;
+  }
+ 
+  .wv-search-widget-nav li {
+    padding-left: 0;
+  }
+  .data-wv-search-widget nav li {
+    height: auto;
+    display: block;
+  }
+
+  .wv-search-widget-nav > li.active > a,
+  .wv-search-widget-nav > li.active > a:hover,
+  .wv-search-widget-nav > li.active > a:focus {
+    border-color: #b0008e;
+    border-style: solid;
+    border-radius:  0 0;
+    height: auto;
+        border-width: 1px 0 1px 1px;
+  }
+  .data-wv-search-widget nav li a:not(.wv-search-widget-nav-opt-cruises) {
+    background-size: 18px;
+  }
+    .wv-search-widget-nav > li > a.wv-search-widget-nav-opt-anytime-escapes {
+        background-size: 30px!important;
+        background-position: center 4px;
+    }
+  .data-wv-search-widget nav li a.active {
+    border-width: 1px 1px 0 1px;
+    border-color: #b0008e;
+    border-style: solid;
+    border-radius: 10px 10px 0 0;
+  }
+  .data-wv-search-widget nav li a {
+    background-position: center 10px;
+    position: relative;
+    padding: 0 0 0 0;
+  }
+  .data-wv-search-widget nav .wv-search-widget-nav li .wv-search-widget-nav-title {
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .wv-search-widget-nav > li.active > a .arrowmark {
+    height: 100%;
+    top: auto;
+    transform: rotate(270deg);
+    position: absolute;
+    bottom: auto;
+   left: 55.1%;
+    width: 100%;
+    background-size: 15px 25px;
+  }
+
+
+
+  .data-wv-search-widget nav li .wv-search-widget-nav-title {
+    padding-top: 33px;
+    font-size: 9px;
+    max-width: 92%;
+    margin: 0 auto;
+  }
+  .wv-search-widget-nav >li >a.wv-search-widget-nav-opt-cruises {
+    padding-left: 0;
+  }
+  .wv-search-widget-nav >li >a.wv-search-widget-nav-opt-anytime-escapes > .wv-search-widget-nav-title {
+     margin-left: auto; 
+}
+
+  
+
+  .data-wv-search-widget .wv-search-widget-submit-wrapper {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 36px;
+    z-index: 9999;
+  }
+  .data-wv-search-widget .wv-form-block {
+    display: table;
+    height: 36px;
+    margin-top: 20px;
+    width: 100%;
+  }
+  .data-wv-search-widget .wv-search-widget-dreamtrips-destination .wv-form-block-inner {
+    position: relative;
+  }
+  .data-wv-search-widget .wv-form-block .wv-form-block-inner {
+    display: table-cell;
+    height: 36px;
+    margin-bottom: 0;
+    margin-top: 0;
+    width: 100%;
+    vertical-align: middle;
+  }
+  .data-wv-search-widget .wv-search-widget-submit-wrapper .wv-search-widget-submit {
+    display: block;
+    position: relative;
+    height: 100%;
+    width: auto;
+    font-size: 18px;
+  }
+  .data-wv-search-widget .wv-search-widget-submit-wrapper .wv-search-widget-submit>* {
+    -webkit-transition: background-color .2s ease, box-shadow .2s ease;
+    transition: background-color .2s ease, box-shadow .2s ease;
+    background-color: #ed8b00;
+    border: 0;
+    color: #fff;
+    display: block;
+    height: 36px;
+    width: 100%;
+  }
+  .data-wv-search-widget .wv-search-widget-dreamtrips-destination .wv-form-block-inner:before {
+    content: '';
+    height: 16px;
+    width: 16px;
+    background: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/magnify-mobile.svg");
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 30px;
+    left: 10px;
+    z-index: 2;
+  }
+  .data-wv-search-widget .wv-search-widget-dreamtrips-destination .wv-form-hotel-inner:before{
+      top:10px;
+  }
+  .data-wv-search-widget .wv-search-widget-dreamtrips-destination .wv-form-block-inner input[type=text] {
+    padding-left: 33px!important;
+  }
+  .data-wv-search-widget .wv-form-block .wv-form-block-inner input[type=text] {
+    background-color: #fff;
+    border: 1px solid #d4e0eb;
+    border-radius: 4px;
+    width: 100%;
+    padding: 8px 5px;
+  }
+  .data-wv-search-widget .wv-form-block .wv-form-block-inner .input-search-box{
+      margin-top:20px;
+  }
+  .data-wv-search-widget .wv-search-widget-dreamtrips-itins .calendar-input.wv-form-block:not(.wv-search-widget-flights-multi-city-controls).full-width {
+    width: 100%;
+  }
+  .data-wv-search-widget .wv-search-widget-dreamtrips-itins .calendar-input.wv-form-block:not(.wv-search-widget-flights-multi-city-controls) {
+    width: 50%;
+  }
+  .data-wv-search-widget .wv-form-block .wv-form-block-inner input[type=text]#StartDateTextBox {
+    border: 0;
+  }
+  .data-wv-search-widget div.calendar-input.wv-form-block>div.wv-form-block-inner {
+    padding-left: 21px;
+  }
+  .data-wv-search-widget div.calendar-input.wv-form-block>div {
+    margin-left: 12px;
+  }
+  .data-wv-search-widget .calendar-input {
+    border-radius: 4px;
+  }
+  .datepicker {
+    position: fixed;
+    top: 0;
+    margin-top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 2000;
+    border: 0;
+    border-radius: 0;
+    height: 100%;
+    overflow-y: scroll;
+  }
+  .datepicker .datepicker-mobile-header {
+    background: #a1acb6;
+    font-size: 16px;
+    padding: 10px 15px;
+    color: #fff;
+    width: 100%;
+  }
+  .data-wv-search-widget .wv-search-widget-flights-travelers .wv-dropdown-button.pax-dropdown {
+    padding: 0 0 0 7px;
+    border-radius: 4px;
+    background: #fff;
+  }
+  .data-wv-search-widget .wv-form-block .wv-form-block-inner .wv-dropdown-button.pax-dropdown input[type=text] {
+    width: 49%;
+    border: 0;
+  }
+  .data-wv-search-widget .wv-form-block .wv-form-block-inner .wv-dropdown-button.pax-dropdown input:first-child {
+    width: 51px;
+    border: 0;
+    padding: 8px 0;
+  }
+  .data-wv-search-widget .wv-form-block .wv-form-block-inner .wv-dropdown-button.pax-dropdown input:last-child {
+    padding-left: 0;
+  }
+  .data-wv-search-widget .wv-search-widget-dreamtrips-itins.wv-form-block-group {
+    position: relative;
+  }
+  .data-wv-search-widget .rez-ac-wrapper {
+    display: table-cell;
+    width: 100%;
+    top: 39px;
+    left: 0;
+  }
+  .data-wv-search-widget .wv-search-widget-dreamtrips-itins .calendar-input.wv-form-block:not(.wv-search-widget-flights-multi-city-controls) {
+    width: 50%;
+  }
+  .data-wv-search-widget .wv-search-widget-flights .wv-form-block.wv-search-widget-flights-returning,
+  .data-wv-search-widget .wv-form-block.wv-search-widget-dreamtrips-returning,
+  .data-wv-search-widget .wv-search-widget-dreamtrips .wv-form-block.wv-search-widget-flights-returning,
+  .data-wv-search-widget .wv-search-widget-dreamtrips .wv-form-block.wv-search-widget-dreamtrips-returning {
+    border-left-width: 0!important;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    height: 38px;
+  }
+  .data-wv-search-widget .wv-search-widget-flights .wv-form-block.wv-search-widget-flights-departing,
+  .data-wv-search-widget .wv-form-block.wv-search-widget-dreamtrips-departing,
+  .data-wv-search-widget .wv-form-block.wv-search-widget-flights-returning,
+  .data-wv-search-widget .wv-form-block.wv-search-widget-dreamtrips-returning,
+  .data-wv-search-widget .wv-search-widget-dreamtrips .wv-form-block.wv-search-widget-flights-departing,
+  .data-wv-search-widget .wv-search-widget-dreamtrips .wv-form-block.wv-search-widget-dreamtrips-departing,
+  .data-wv-search-widget .wv-search-widget-dreamtrips .wv-form-block.wv-search-widget-flights-returning,
+  .data-wv-search-widget .wv-search-widget-dreamtrips .wv-form-block.wv-search-widget-dreamtrips-returning {
+    float: left;
+    margin-bottom: 20px;
+    width: 50%;
+  }
+  .data-wv-search-widget .wv-form-block .wv-form-block-inner input[type=text].date-field {
+    border: 0;
+  }
+  .data-wv-search-widget .wv-search-widget-flights-trip-type.wv-form-block,
+  .data-wv-search-widget .wv-search-widget-flights-preferred-airline.wv-form-block,
+  .data-wv-search-widget .wv-search-widget-flights-preferred-class.wv-form-block,
+  .data-wv-search-widget .wv-search-widget-flights-travelers.wv-form-block,
+  .data-wv-search-widget .wv-search-widget-rentals-rental-agency.wv-form-block {
+    background-color: #fff;
+    border: 1px solid #d4e0eb;
+    border-radius: 4px;
+  }
+  .data-wv-search-widget .wv-search-widget-flights-departing .wv-form-block-inner input[type=text],
+  .data-wv-search-widget .wv-search-widget-flights-returning .wv-form-block-inner input[type=text] {
+    border: none;
+  }
+  .data-wv-search-widget .wv-search-widget-flights .wv-form-block.wv-search-widget-flights-departing:not(.activities-departing):not(.full-width):not(.full-width-box),
+  .data-wv-search-widget .wv-form-block.wv-search-widget-dreamtrips-departing:not(.activities-departing):not(.full-width):not(.full-width-box),
+  .data-wv-search-widget .wv-form-block.wv-search-widget-flights-departing:not(.activities-departing):not(.full-width),
+  .data-wv-search-widget .wv-search-widget-dreamtrips .wv-form-block.wv-search-widget-dreamtrips-departing:not(.activities-departing):not(.full-width) {
+    border-right-width: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+  .data-wv-search-widget .wv-dropdown-button {
+    background-color: #fff;
+    height: 36px;
+    border-radius: 4px;
+  }
+  .wv-searchtxtbox {
+    width: 100%;
+    margin-bottom: 20px;
+    border-radius: 4px;
+  }
+  .data-wv-search-widget .wv-search-widget-flights .wv-form-block.wv-search-widget-flights-departing.full-width-box {
+    width: 100%;
+    border-radius: 4px;
+    border: 1px solid #d4e0eb;
+  }
+  .data-wv-search-widget .calendar-input.rentals-calendar {
+    width: 48%;
+    float: left;
+    margin-bottom: 20px;
+  }
+  .data-wv-search-widget .wv-search-widget-rentals-time.wv-form-block {
+    width: 48%;
+    float: right;
+    border: 1px solid #d4e0eb;
+    border-radius: 4px;
+  }
+  .data-wv-search-widget .wv-search-widget-rentals-wrapper .show-options {
+    display: inline-block!important;
+    width: 100%;
+  }
+  .data-wv-search-widget .wv-search-widget-rentals-location {
+    position: relative;
+  }
+  .data-wv-search-widget .wv-search-widget-rentals-location-pickup .wv-form-block-inner:before,
+  .data-wv-search-widget .wv-search-widget-rentals-location-dropoff .wv-form-block-inner:before {
+    left: 0;
+    top: 8px;
+  }
+  .data-wv-search-widget .wv-form-block.rentals-calendar input[type=text] {
+    border: none;
+  }
+  .wv-search-widget-cruise-destination,
+  .wv-search-widget-cruise-liner-select {
+    border: 1px solid #d4e0eb;
+    border-radius: 4px;
+    background-color: #fff;
+    width: 100%!important;
+  }
+  .data-wv-search-widget .wv-search-widget-rentals-add-more {
+    width: 100%;
+    display: inline-block;
+    margin: 10px 0;
+  }
+  .data-wv-search-widget .wv-search-widget-rentals-add-more a {
+    margin-right: 10px;
+  }
+  .data-wv-search-widget .wv-search-widget-flights-travelers .dropdown-menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    padding-top: 0;
+    border:none;
+    margin-left:0;
+
+  }
+  .data-wv-search-widget .wv-search-widget-flights-travelers.wv-form-block .wv-form-block-inner .dropdown-menu{
+       border-radius:0;
+  }
+  .pax-wrapper .numbers-row input {
+    border: none;
+    width: 20px;
+  }
+  .datepicker {
+    position: fixed;
+    top: 0;
+    margin-top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 2000;
+    border: 0;
+    border-radius: 0;
+    height: 100%;
+    overflow-y: scroll;
+  }
+  .datepicker .datepicker-mobile-header {
+    background: #a1acb6;
+    font-size: 16px;
+    padding: 10px 15px;
+    color: #fff;
+    width: 100%;
+    display: block;
+  }
+  .datepicker .wv-input-containers {
+    min-width: 90%;
+    max-width: 90%;
+  }
+  .datepicker .ui-datepicker.ui-datepicker-multi {
+    top: initial!important;
+    position: initial!important;
+  }
+  .datepicker .ui-datepicker-group {
+    margin-left: 0;
+    padding-left: 0;
+    width: 100%;
+  }
+  .datepicker-mobile-footer {
+    display: block;
+  }
+  .wv-search-widget-flights-travelers .dropdown-menu .mobile-header {
+    display: block;
+  }
+  .data-wv-search-widget .wv-search-widget-hideaways .wv-search-widget-cruise-destination,
+  .data-wv-search-widget .wv-search-widget-hideaways .wv-search-widget-cruise-liner-select {
+    width: 100%;
+  }
+  .dropdown .dropdown-placeholder {
+    top: 11px;
+  }
+  .data-wv-search-widget .wv-search-widget-repeat-wrapper .wv-form-block.wv-search-widget-dreamtrips-returning {
+    height: 38px;
+  }
+  .data-wv-search-widget .dropdown-menu {
+    max-height: initial;
+  }
+  .ui-datepicker-multi-2 .ui-datepicker-group {
+    width: 100%;
+    margin: 0;
+  }
+  .ota-wv-search-widget {
+      display: inline-block;
+    position: relative;
+    width: 100%;
+    float: left;
+    left: auto;
+    right: auto;
+    top: auto;
+    height: auto;
+    min-height: auto;
+    background-color: #ffffff;
+	overflow:visible;
+  }
+  .wv-search-widget-nav> li>a.wv-search-widget-nav-opt-anytime-escapes:hover{
+     background-image: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/DreamTrips_AnytimeEscapes_Icon_Solo.svg")!important;
+     color: #4A5058;
+
+}
+}
+
+
+
+
+.tblfixed {
+  table-layout: fixed;
+}
+
+.tblfixed .wid20 {
+  width: 20%
+}
+
+.tblfixed .wid40 {
+  width: 40%
+}
+
+.data-wv-search-widget .SumoSelect {
+  display: block;
+  width: auto;
+  line-height: normal;
+}
+
+.data-wv-search-widget .SumoSelect>.CaptionCont {
+  position: relative;
+  border: 0px solid #A4A4A4;
+  min-height: 14px;
+  background-color: #fff;
+  border-radius: 0;
+  margin: 0;
+}
+
+.data-wv-search-widget .SumoSelect>.optWrapper>.options li.opt {
+  padding: 0;
+}
+
+.data-wv-search-widget .SumoSelect>.optWrapper>.options li label {
+  line-height: 25px;
+}
+
+.data-wv-search-widget .SumoSelect>.optWrapper>.options li label {
+  border-bottom: 0px solid #d4e0eb;
+  font-weight: normal;
+}
+
+.data-wv-search-widget .SumoSelect .select-all.partial>span i,
+.data-wv-search-widget .SumoSelect .select-all.selected>span i,
+.data-wv-search-widget .SumoSelect>.optWrapper.multiple>.options li.opt.selected span i {
+  background-color: #0076ce;
+}
+
+.data-wv-search-widget .SumoSelect>.optWrapper>.options li.group>label {
+  background: #0076ce;
+  color: #fff;
+  margin: 0;
+  padding: 5px 10px;
+}
+
+.data-wv-search-widget .SumoSelect>.optWrapper {
+  border-radius: 0px;
+}
+
+.data-wv-search-widget .SumoSelect.open>.CaptionCont,
+.data-wv-search-widget .SumoSelect:focus>.CaptionCont,
+.data-wv-search-widget .SumoSelect:hover>.CaptionCont {
+  box-shadow: none;
+}
+
+.data-wv-search-widget .SumoSelect.open>.optWrapper {
+  top: 31px;
+}
+
+.data-wv-search-widget .SumoSelect>.optWrapper>.options li.opt {
+  border-bottom: 1px solid #d4e0eb;
+}
+
+.data-wv-search-widget .SumoSelect>.optWrapper>.options {
+  border-radius: 0;
+}
+
+.data-wv-search-widget .SumoSelect>.CaptionCont>span.placeholder {
+  color: #4A5058;
+  font-style: normal;
+}
+
+.data-wv-search-widget .SumoSelect>.CaptionCont>label>i {
+  background: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/arrowdown.svg") no-repeat center;
+}
+
+.data-wv-search-widget .data-wv-search-widget .wv-search-widget-cruise-liner-select {
+  line-height: 34px;
+}
+
+.data-wv-search-widget .select-box {
+  padding: 4px 0;
+  width: 100%;
+}
+
+.sumoSelect-select-display-none {
+  display: none;
+}
+
+
+
+
+.wv-search-widget-repeat-wrapper .wv-searchtxtbox:first-child {
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+}
+
+.wv-search-widget-repeat-wrapper .wv-searchtxtbox.calendar-input {
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+  border-right-width: thin!important;
+}
+
+.data-wv-search-widget .wv-search-widget-repeat-wrapper .wv-form-block.calendar-input input[type='text'] {
+  line-height: 15px;
+}
+
+@media (max-width: 767px) {
+  .data-wv-search-widget .SumoSelect>.CaptionCont>label>i {
+    top: 6px;
+    right: 14px;
+  }
+  .data-wv-search-widget .wv-form-block .wv-form-block-inner .pax-wrapper .numbers-row input[type=text] {
+    height: auto;
+    padding: 0;
+  }
+
+  .pax-wrapper .numbers-row.childagewrapper .lbl-pax{
+      margin-right:5%;
+  }
+  .SumoSelect>.optWrapper.isFloating{
+  position: relative !important;
+    left: auto !important;
+    right: auto !important;
+    width: auto !important;
+    bottom: auto !important;
+    margin: auto !important;
+    max-height: none !important;
+}
+  .data-wv-search-widget .SumoSelect.open>.optWrapper{
+    top: 35px;
+  }
+   .data-wv-search-widget .select-box{
+	  padding-top:0;
+  }
+ 
+  .SumoSelect.open .search-txt {
+      border: none !important; 
+  }
+  
+}
+
+@media (max-width: 320px){
+    .wv-search-widget-nav > li > a.wv-search-widget-nav-opt-anytime-escapes {
+        background-size: 25px!important;
+    }
+   
+.data-wv-search-widget nav li a:not(.wv-search-widget-nav-opt-cruises) {
+    background-size: 15px;
+}
+    .wv-search-widget-nav > li > a.wv-search-widget-nav-opt-cruises {
+        
+        background-size: 25px;
+    }
+
+    .data-wv-search-widget .icon.icon-hideouts{
+        font-size: 18px;
+    }
+    .data-wv-search-widget .tab-content.wv-search-widget-sub-form-wrapper{
+            padding-right: 2px;
+            padding-left: 80px; 
+    }
+}
+.lbl-pax label {
+  text-overflow: ellipsis;
+  max-width: 107px;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+
+
+[readonly='readonly'] {
+   pointer-events: none;
+   user-select:none;
+}
+
+
+.data-wv-search-widget .wv-search-widget-hideaways select.form-control{
+     border: none;
+    border-right-width: 0;
+    background-color: #fff;
+   
+     transition: unset;
+    box-shadow: none;
+    border-radius:5px;
+}
+.data-wv-search-widget .custom-dropdown-style {
+    position: relative;
+    float: left;
+    width: 100%;
+   
+}
+.data-wv-search-widget select.form-control{
+    width:100%;
+     -webkit-appearance: none;
+    -moz-appearance: none;
+    outline:none;
+       border:none;
+         height: 33px;
+}
+
+ .data-wv-search-widget .custom-dropdown-style:after {
+  background: url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/images/arrowdown.svg") no-repeat;
+  background-size: 15px 15px;
+  content: '';
+  position: absolute;
+  top: 12px;
+  right: 15px;
+  height: 15px;
+  width: 15px;
+  pointer-events:none;
+}
+
+.data-wv-search-widget select.form-control:focus{
+        border: none;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+    box-shadow: none;
+    
+}
+.wv-search-widget-rentals-rental-agency select{
+    height:33px;
+}.SelectClass,.SumoSelect.open .search-txt,.SumoUnder{position:absolute;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;top:0;left:0}.SumoSelect p{margin:0}.SumoSelect{width:200px}.SelectBox{padding:5px 8px}.sumoStopScroll{overflow:hidden}.SumoSelect .hidden{display:none}.SumoSelect .search-txt{display:none;outline:0}.SumoSelect .no-match{display:none;padding:6px}.SumoSelect.open .search-txt{display:inline-block;width:100%;margin:0;padding:5px 8px;border:none;box-sizing:border-box;border-radius:5px}.SumoSelect.open>.search>label,.SumoSelect.open>.search>span{visibility:hidden}.SelectClass,.SumoUnder{right:0;height:100%;width:100%;border:none;box-sizing:border-box;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";filter:alpha(opacity=0);-moz-opacity:0;-khtml-opacity:0;opacity:0}.SelectClass{z-index:1}.SumoSelect .select-all>label,.SumoSelect>.CaptionCont,.SumoSelect>.optWrapper>.options li.opt label{user-select:none;-o-user-select:none;-moz-user-select:none;-khtml-user-select:none;-webkit-user-select:none}.SumoSelect{display:inline-block;position:relative;outline:0}.SumoSelect.open>.CaptionCont,.SumoSelect:focus>.CaptionCont,.SumoSelect:hover>.CaptionCont{box-shadow:0 0 2px #7799D0;border-color:#7799D0}.SumoSelect>.CaptionCont{position:relative;border:1px solid #A4A4A4;min-height:14px;background-color:#fff;border-radius:2px;margin:0}.SumoSelect>.CaptionCont>span{display:block;padding-right:30px;text-overflow:ellipsis;white-space:nowrap;overflow:hidden;cursor:default}.SumoSelect>.CaptionCont>span.placeholder{color:#ccc;font-style:italic}.SumoSelect>.CaptionCont>label{position:absolute;top:0;right:0;bottom:0;width:30px}.SumoSelect>.CaptionCont>label>i{background-image:url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAYAAABy6+R8AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wMdBhAJ/fwnjwAAAGFJREFUKM9jYBh+gBFKuzEwMKQwMDB8xaOWlYGB4T4DA0MrsuapDAwM//HgNwwMDDbYTJuGQ8MHBgYGJ1xOYGNgYJiBpuEpAwODHSF/siDZ+ISBgcGClEDqZ2Bg8B6CkQsAPRga0cpRtDEAAAAASUVORK5CYII=");background-position:center center;width:16px;height:16px;display:block;position:absolute;top:0;left:0;right:0;bottom:0;margin:auto;background-repeat:no-repeat;opacity:.8}.SumoSelect>.optWrapper{display:none;z-index:1000;top:30px;width:100%;position:absolute;left:0;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background:#fff;border:1px solid #ddd;box-shadow:2px 3px 3px rgba(0,0,0,.11);border-radius:3px;overflow:hidden}.SumoSelect.open>.optWrapper{top:35px;display:block}.SumoSelect.open>.optWrapper.up{top:auto;bottom:100%;margin-bottom:5px}.SumoSelect>.optWrapper ul{list-style:none;display:block;padding:0;margin:0;overflow:auto}.SumoSelect>.optWrapper>.options{border-radius:2px;position:relative;max-height:250px}.SumoSelect>.optWrapper>.options li.group.disabled>label{opacity:.5}.SumoSelect>.optWrapper>.options li ul li.opt{padding-left:22px}.SumoSelect>.optWrapper.multiple>.options li ul li.opt{padding-left:50px}.SumoSelect>.optWrapper.isFloating>.options{max-height:100%;box-shadow:0 0 100px #595959}.SumoSelect>.optWrapper>.options li.opt{padding:6px;position:relative;border-bottom:1px solid #f5f5f5}.SumoSelect>.optWrapper>.options>li.opt:first-child{border-radius:2px 2px 0 0}.SumoSelect>.optWrapper>.options>li.opt:last-child{border-radius:0 0 2px 2px;border-bottom:none}.SumoSelect>.optWrapper>.options li.opt:hover{background-color:#E4E4E4}.SumoSelect>.optWrapper>.options li.opt.sel{background-color:#a1c0e4;border-bottom:1px solid #a1c0e4}.SumoSelect>.optWrapper>.options li label{text-overflow:ellipsis;white-space:nowrap;overflow:hidden;display:block;cursor:pointer}.SumoSelect>.optWrapper>.options li span{display:none}.SumoSelect>.optWrapper>.options li.group>label{cursor:default;padding:8px 6px;font-weight:700}.SumoSelect>.optWrapper.isFloating{position:fixed;top:0;left:0;right:0;width:90%;bottom:0;margin:auto;max-height:90%}.SumoSelect>.optWrapper>.options li.opt.disabled{background-color:inherit;pointer-events:none}.SumoSelect>.optWrapper>.options li.opt.disabled *{-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";filter:alpha(opacity=50);-moz-opacity:.5;-khtml-opacity:.5;opacity:.5}.SumoSelect>.optWrapper.multiple>.options li.opt{padding-left:35px;cursor:pointer}.SumoSelect .select-all>span,.SumoSelect>.optWrapper.multiple>.options li.opt span{position:absolute;display:block;width:30px;top:0;bottom:0;margin-left:-35px}.SumoSelect .select-all>span i,.SumoSelect>.optWrapper.multiple>.options li.opt span i{position:absolute;margin:auto;left:0;right:0;top:0;bottom:0;width:14px;height:14px;border:1px solid #AEAEAE;border-radius:2px;box-shadow:inset 0 1px 3px rgba(0,0,0,.15);background-color:#fff}.SumoSelect>.optWrapper>.MultiControls{display:none;border-top:1px solid #ddd;background-color:#fff;box-shadow:0 0 2px rgba(0,0,0,.13);border-radius:0 0 3px 3px}.SumoSelect>.optWrapper.multiple.isFloating>.MultiControls{display:block;margin-top:5px;position:absolute;bottom:0;width:100%}.SumoSelect>.optWrapper.multiple.okCancelInMulti>.MultiControls{display:block}.SumoSelect>.optWrapper.multiple.okCancelInMulti>.MultiControls>p{padding:6px}.SumoSelect>.optWrapper.multiple>.MultiControls>p{display:inline-block;cursor:pointer;padding:12px;width:50%;box-sizing:border-box;text-align:center}.SumoSelect>.optWrapper.multiple>.MultiControls>p:hover{background-color:#f1f1f1}.SumoSelect>.optWrapper.multiple>.MultiControls>p.btnOk{border-right:1px solid #DBDBDB;border-radius:0 0 0 3px}.SumoSelect>.optWrapper.multiple>.MultiControls>p.btnCancel{border-radius:0 0 3px}.SumoSelect>.optWrapper.isFloating>.options li.opt{padding:12px 6px}.SumoSelect>.optWrapper.multiple.isFloating>.options li.opt{padding-left:35px}.SumoSelect>.optWrapper.multiple.isFloating{padding-bottom:43px}.SumoSelect .select-all.partial>span i,.SumoSelect .select-all.selected>span i,.SumoSelect>.optWrapper.multiple>.options li.opt.selected span i{background-color:#11a911;box-shadow:none;border-color:transparent;background-image:url("https://dvapvh58pp4t7.cloudfront.net/1/dreamtrips/Media/Frontend/b2c/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAGCAYAAAD+Bd/7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNXG14zYAAABMSURBVAiZfc0xDkAAFIPhd2Kr1WRjcAExuIgzGUTIZ/AkImjSofnbNBAfHvzAHjOKNzhiQ42IDFXCDivaaxAJd0xYshT3QqBxqnxeHvhunpu23xnmAAAAAElFTkSuQmCC");background-repeat:no-repeat;background-position:center center}.SumoSelect.disabled{opacity:.7;cursor:not-allowed}.SumoSelect.disabled>.CaptionCont{border-color:#ccc;box-shadow:none}.SumoSelect .select-all{border-radius:3px 3px 0 0;position:relative;border-bottom:1px solid #ddd;background-color:#fff;padding:8px 0 3px 35px;line-height:20px;cursor:pointer}.SumoSelect .select-all>label,.SumoSelect .select-all>span i{cursor:pointer}.SumoSelect .select-all.partial>span i{background-color:#ccc}.SumoSelect>.optWrapper>.options li.optGroup{padding-left:5px;text-decoration:underline}
